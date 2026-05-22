@@ -1,0 +1,26 @@
+entity_id,entity_name,segment,priority_score,avg_risk_score,avg_quality_score,estimated_impact
+INT008,Intelligence record 8,Core,100.67,50.0,80.4,887378
+INT027,Intelligence record 27,Core,95.94,47.9,79.1,833668
+INT006,Intelligence record 6,Strategic,94.23,53.6,80.1,765118
+INT020,Intelligence record 20,Strategic,90.62,47.4,80.1,767537
+INT034,Intelligence record 34,Growth,87.67,52.0,81.3,692116
+INT012,Intelligence record 12,Strategic,86.79,54.8,80.3,651321
+INT002,Intelligence record 2,Strategic,86.21,54.1,80.1,648476
+INT005,Intelligence record 5,Strategic,85.51,48.4,81.0,692162
+INT019,Intelligence record 19,Core,83.73,50.3,79.8,645604
+INT014,Intelligence record 14,Growth,82.81,51.4,80.2,624847
+INT036,Intelligence record 36,Core,81.74,50.0,80.8,624510
+INT030,Intelligence record 30,Watch,81.38,47.2,82.9,652762
+INT016,Intelligence record 16,Core,81.04,52.9,81.1,590360
+INT025,Intelligence record 25,Core,80.85,50.3,80.5,608124
+INT024,Intelligence record 24,Core,80.69,51.5,80.1,593580
+INT003,Intelligence record 3,Watch,78.91,49.0,79.6,588300
+INT035,Intelligence record 35,Growth,78.90,51.0,82.0,581556
+INT004,Intelligence record 4,Growth,78.41,49.8,80.2,577018
+INT028,Intelligence record 28,Watch,78.03,49.8,81.5,577438
+INT029,Intelligence record 29,Strategic,78.01,53.5,80.7,541163
+INT022,Intelligence record 22,Growth,77.01,51.1,81.3,550725
+INT017,Intelligence record 17,Core,76.34,51.4,79.1,528970
+INT021,Intelligence record 21,Core,75.44,50.5,82.5,539242
+INT018,Intelligence record 18,Core,73.46,49.5,80.4,510884
+INT023,Intelligence record 23,Watch,73.18,54.4,79.3,459956
