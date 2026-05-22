@@ -1,0 +1,145 @@
+taxonomy_id,feed_id,dimension,term,parent_term,schema_field,buyer_use_case,owner,governance_status
+TAX0001,FEED001,company_stage,Pre IPO,root,company_stage,corp dev,Data product,approved
+TAX0002,FEED001,company_stage,Seed,root,company_stage,corp dev,Research operations,approved
+TAX0003,FEED001,company_stage,Series B,root,company_stage,corp dev,Data product,approved
+TAX0004,FEED001,signal_type,partnership,company_profile,signal_type,corp dev,Research operations,approved
+TAX0005,FEED001,signal_type,funding_event,company_profile,signal_type,corp dev,Research operations,approved
+TAX0006,FEED001,signal_type,market_sentiment,company_profile,signal_type,corp dev,Research operations,needs definition
+TAX0007,FEED001,buyer_use_case,advisory,root,buyer_use_case,corp dev,Editorial liaison,duplicate risk
+TAX0008,FEED001,buyer_use_case,corp dev,root,buyer_use_case,corp dev,Research operations,approved
+TAX0009,FEED001,buyer_use_case,enterprise,root,buyer_use_case,corp dev,Editorial liaison,needs definition
+TAX0010,FEED001,validation_status,conflict found,root,validation_status,corp dev,Research operations,needs definition
+TAX0011,FEED001,validation_status,needs public corroboration,root,validation_status,corp dev,Data product,approved
+TAX0012,FEED001,validation_status,needs reporter review,root,validation_status,corp dev,Research operations,approved
+TAX0013,FEED002,company_stage,Pre IPO,root,company_stage,investor,Research operations,needs definition
+TAX0014,FEED002,company_stage,Growth,root,company_stage,investor,Editorial liaison,approved
+TAX0015,FEED002,company_stage,Series A,root,company_stage,investor,Research operations,approved
+TAX0016,FEED002,signal_type,market_sentiment,deal_timeline,signal_type,investor,Editorial liaison,approved
+TAX0017,FEED002,signal_type,funding_event,deal_timeline,signal_type,investor,Research operations,approved
+TAX0018,FEED002,signal_type,partnership,deal_timeline,signal_type,investor,Editorial liaison,needs definition
+TAX0019,FEED002,buyer_use_case,corp dev,root,buyer_use_case,investor,Data product,approved
+TAX0020,FEED002,buyer_use_case,advisory,root,buyer_use_case,investor,Editorial liaison,approved
+TAX0021,FEED002,buyer_use_case,investor,root,buyer_use_case,investor,Data product,needs definition
+TAX0022,FEED002,validation_status,conflict found,root,validation_status,investor,Data product,needs definition
+TAX0023,FEED002,validation_status,validated,root,validation_status,investor,Research operations,needs definition
+TAX0024,FEED002,validation_status,needs public corroboration,root,validation_status,investor,Data product,approved
+TAX0025,FEED003,company_stage,Growth,root,company_stage,consulting,Research operations,needs definition
+TAX0026,FEED003,company_stage,Series A,root,company_stage,consulting,Research operations,approved
+TAX0027,FEED003,company_stage,Seed,root,company_stage,consulting,Research operations,approved
+TAX0028,FEED003,signal_type,market_sentiment,executive_move,signal_type,consulting,Editorial liaison,duplicate risk
+TAX0029,FEED003,signal_type,valuation_marker,executive_move,signal_type,consulting,Editorial liaison,approved
+TAX0030,FEED003,signal_type,funding_event,executive_move,signal_type,consulting,Data product,approved
+TAX0031,FEED003,buyer_use_case,enterprise,root,buyer_use_case,consulting,Data product,approved
+TAX0032,FEED003,buyer_use_case,consulting,root,buyer_use_case,consulting,Data product,approved
+TAX0033,FEED003,buyer_use_case,corp dev,root,buyer_use_case,consulting,Research operations,approved
+TAX0034,FEED003,validation_status,validated,root,validation_status,consulting,Research operations,approved
+TAX0035,FEED003,validation_status,conflict found,root,validation_status,consulting,Research operations,approved
+TAX0036,FEED003,validation_status,needs reporter review,root,validation_status,consulting,Research operations,needs definition
+TAX0037,FEED004,company_stage,Seed,root,company_stage,investor,Research operations,approved
+TAX0038,FEED004,company_stage,Series B,root,company_stage,investor,Editorial liaison,approved
+TAX0039,FEED004,company_stage,Pre IPO,root,company_stage,investor,Editorial liaison,needs definition
+TAX0040,FEED004,signal_type,partnership,funding_tracker,signal_type,investor,Research operations,approved
+TAX0041,FEED004,signal_type,product_launch,funding_tracker,signal_type,investor,Editorial liaison,approved
+TAX0042,FEED004,signal_type,funding_event,funding_tracker,signal_type,investor,Editorial liaison,approved
+TAX0043,FEED004,buyer_use_case,advisory,root,buyer_use_case,investor,Data product,needs definition
+TAX0044,FEED004,buyer_use_case,corp dev,root,buyer_use_case,investor,Research operations,approved
+TAX0045,FEED004,buyer_use_case,investor,root,buyer_use_case,investor,Data product,approved
+TAX0046,FEED004,validation_status,needs public corroboration,root,validation_status,investor,Research operations,approved
+TAX0047,FEED004,validation_status,validated,root,validation_status,investor,Editorial liaison,approved
+TAX0048,FEED004,validation_status,conflict found,root,validation_status,investor,Data product,needs definition
+TAX0049,FEED005,company_stage,Seed,root,company_stage,enterprise,Research operations,approved
+TAX0050,FEED005,company_stage,Series A,root,company_stage,enterprise,Data product,approved
+TAX0051,FEED005,company_stage,Pre IPO,root,company_stage,enterprise,Data product,approved
+TAX0052,FEED005,signal_type,go_to_market_shift,sentiment_benchmark,signal_type,enterprise,Editorial liaison,approved
+TAX0053,FEED005,signal_type,capacity_expansion,sentiment_benchmark,signal_type,enterprise,Data product,approved
+TAX0054,FEED005,signal_type,funding_event,sentiment_benchmark,signal_type,enterprise,Editorial liaison,approved
+TAX0055,FEED005,buyer_use_case,advisory,root,buyer_use_case,enterprise,Research operations,needs definition
+TAX0056,FEED005,buyer_use_case,enterprise,root,buyer_use_case,enterprise,Research operations,approved
+TAX0057,FEED005,buyer_use_case,investor,root,buyer_use_case,enterprise,Editorial liaison,needs definition
+TAX0058,FEED005,validation_status,needs reporter review,root,validation_status,enterprise,Data product,duplicate risk
+TAX0059,FEED005,validation_status,conflict found,root,validation_status,enterprise,Research operations,approved
+TAX0060,FEED005,validation_status,needs public corroboration,root,validation_status,enterprise,Data product,duplicate risk
+TAX0061,FEED006,company_stage,Series A,root,company_stage,enterprise,Research operations,approved
+TAX0062,FEED006,company_stage,Series B,root,company_stage,enterprise,Editorial liaison,approved
+TAX0063,FEED006,company_stage,Pre IPO,root,company_stage,enterprise,Research operations,approved
+TAX0064,FEED006,signal_type,capacity_expansion,buyer_signal,signal_type,enterprise,Editorial liaison,approved
+TAX0065,FEED006,signal_type,go_to_market_shift,buyer_signal,signal_type,enterprise,Research operations,needs definition
+TAX0066,FEED006,signal_type,executive_move,buyer_signal,signal_type,enterprise,Research operations,approved
+TAX0067,FEED006,buyer_use_case,investor,root,buyer_use_case,enterprise,Data product,approved
+TAX0068,FEED006,buyer_use_case,corp dev,root,buyer_use_case,enterprise,Editorial liaison,duplicate risk
+TAX0069,FEED006,buyer_use_case,enterprise,root,buyer_use_case,enterprise,Editorial liaison,needs definition
+TAX0070,FEED006,validation_status,needs reporter review,root,validation_status,enterprise,Research operations,approved
+TAX0071,FEED006,validation_status,validated,root,validation_status,enterprise,Editorial liaison,needs definition
+TAX0072,FEED006,validation_status,conflict found,root,validation_status,enterprise,Research operations,approved
+TAX0073,FEED007,company_stage,Seed,root,company_stage,advisory,Data product,approved
+TAX0074,FEED007,company_stage,Pre IPO,root,company_stage,advisory,Research operations,approved
+TAX0075,FEED007,company_stage,Series B,root,company_stage,advisory,Data product,approved
+TAX0076,FEED007,signal_type,partnership,company_profile,signal_type,advisory,Research operations,needs definition
+TAX0077,FEED007,signal_type,capacity_expansion,company_profile,signal_type,advisory,Research operations,approved
+TAX0078,FEED007,signal_type,executive_move,company_profile,signal_type,advisory,Research operations,approved
+TAX0079,FEED007,buyer_use_case,investor,root,buyer_use_case,advisory,Editorial liaison,approved
+TAX0080,FEED007,buyer_use_case,consulting,root,buyer_use_case,advisory,Data product,duplicate risk
+TAX0081,FEED007,buyer_use_case,corp dev,root,buyer_use_case,advisory,Editorial liaison,approved
+TAX0082,FEED007,validation_status,needs public corroboration,root,validation_status,advisory,Research operations,approved
+TAX0083,FEED007,validation_status,needs reporter review,root,validation_status,advisory,Research operations,approved
+TAX0084,FEED007,validation_status,validated,root,validation_status,advisory,Research operations,approved
+TAX0085,FEED008,company_stage,Seed,root,company_stage,corp dev,Data product,approved
+TAX0086,FEED008,company_stage,Series A,root,company_stage,corp dev,Research operations,approved
+TAX0087,FEED008,company_stage,Series B,root,company_stage,corp dev,Editorial liaison,approved
+TAX0088,FEED008,signal_type,partnership,deal_timeline,signal_type,corp dev,Editorial liaison,needs definition
+TAX0089,FEED008,signal_type,product_launch,deal_timeline,signal_type,corp dev,Data product,approved
+TAX0090,FEED008,signal_type,vendor_spend,deal_timeline,signal_type,corp dev,Research operations,approved
+TAX0091,FEED008,buyer_use_case,investor,root,buyer_use_case,corp dev,Editorial liaison,approved
+TAX0092,FEED008,buyer_use_case,enterprise,root,buyer_use_case,corp dev,Research operations,approved
+TAX0093,FEED008,buyer_use_case,advisory,root,buyer_use_case,corp dev,Research operations,approved
+TAX0094,FEED008,validation_status,needs public corroboration,root,validation_status,corp dev,Research operations,needs definition
+TAX0095,FEED008,validation_status,conflict found,root,validation_status,corp dev,Editorial liaison,approved
+TAX0096,FEED008,validation_status,validated,root,validation_status,corp dev,Data product,approved
+TAX0097,FEED009,company_stage,Seed,root,company_stage,investor,Data product,approved
+TAX0098,FEED009,company_stage,Series B,root,company_stage,investor,Data product,needs definition
+TAX0099,FEED009,company_stage,Series A,root,company_stage,investor,Research operations,approved
+TAX0100,FEED009,signal_type,executive_move,company_profile,signal_type,investor,Research operations,approved
+TAX0101,FEED009,signal_type,funding_event,company_profile,signal_type,investor,Research operations,duplicate risk
+TAX0102,FEED009,signal_type,valuation_marker,company_profile,signal_type,investor,Research operations,approved
+TAX0103,FEED009,buyer_use_case,advisory,root,buyer_use_case,investor,Research operations,approved
+TAX0104,FEED009,buyer_use_case,enterprise,root,buyer_use_case,investor,Research operations,needs definition
+TAX0105,FEED009,buyer_use_case,consulting,root,buyer_use_case,investor,Editorial liaison,approved
+TAX0106,FEED009,validation_status,needs public corroboration,root,validation_status,investor,Data product,needs definition
+TAX0107,FEED009,validation_status,validated,root,validation_status,investor,Data product,approved
+TAX0108,FEED009,validation_status,conflict found,root,validation_status,investor,Research operations,approved
+TAX0109,FEED010,company_stage,Pre IPO,root,company_stage,advisory,Editorial liaison,duplicate risk
+TAX0110,FEED010,company_stage,Series B,root,company_stage,advisory,Research operations,duplicate risk
+TAX0111,FEED010,company_stage,Series A,root,company_stage,advisory,Research operations,approved
+TAX0112,FEED010,signal_type,customer_adoption,survey_benchmark,signal_type,advisory,Data product,approved
+TAX0113,FEED010,signal_type,product_launch,survey_benchmark,signal_type,advisory,Editorial liaison,duplicate risk
+TAX0114,FEED010,signal_type,market_sentiment,survey_benchmark,signal_type,advisory,Data product,needs definition
+TAX0115,FEED010,buyer_use_case,consulting,root,buyer_use_case,advisory,Research operations,needs definition
+TAX0116,FEED010,buyer_use_case,corp dev,root,buyer_use_case,advisory,Data product,approved
+TAX0117,FEED010,buyer_use_case,investor,root,buyer_use_case,advisory,Editorial liaison,approved
+TAX0118,FEED010,validation_status,validated,root,validation_status,advisory,Editorial liaison,approved
+TAX0119,FEED010,validation_status,needs reporter review,root,validation_status,advisory,Data product,approved
+TAX0120,FEED010,validation_status,conflict found,root,validation_status,advisory,Data product,approved
+TAX0121,FEED011,company_stage,Series B,root,company_stage,advisory,Editorial liaison,approved
+TAX0122,FEED011,company_stage,Series A,root,company_stage,advisory,Editorial liaison,approved
+TAX0123,FEED011,company_stage,Seed,root,company_stage,advisory,Editorial liaison,approved
+TAX0124,FEED011,signal_type,executive_move,buyer_signal,signal_type,advisory,Data product,approved
+TAX0125,FEED011,signal_type,partnership,buyer_signal,signal_type,advisory,Research operations,approved
+TAX0126,FEED011,signal_type,customer_adoption,buyer_signal,signal_type,advisory,Data product,duplicate risk
+TAX0127,FEED011,buyer_use_case,consulting,root,buyer_use_case,advisory,Editorial liaison,approved
+TAX0128,FEED011,buyer_use_case,advisory,root,buyer_use_case,advisory,Editorial liaison,approved
+TAX0129,FEED011,buyer_use_case,enterprise,root,buyer_use_case,advisory,Data product,needs definition
+TAX0130,FEED011,validation_status,needs public corroboration,root,validation_status,advisory,Research operations,needs definition
+TAX0131,FEED011,validation_status,validated,root,validation_status,advisory,Data product,approved
+TAX0132,FEED011,validation_status,conflict found,root,validation_status,advisory,Editorial liaison,needs definition
+TAX0133,FEED012,company_stage,Pre IPO,root,company_stage,enterprise,Data product,approved
+TAX0134,FEED012,company_stage,Seed,root,company_stage,enterprise,Data product,needs definition
+TAX0135,FEED012,company_stage,Series A,root,company_stage,enterprise,Data product,approved
+TAX0136,FEED012,signal_type,valuation_marker,funding_tracker,signal_type,enterprise,Data product,approved
+TAX0137,FEED012,signal_type,market_sentiment,funding_tracker,signal_type,enterprise,Editorial liaison,needs definition
+TAX0138,FEED012,signal_type,vendor_spend,funding_tracker,signal_type,enterprise,Editorial liaison,approved
+TAX0139,FEED012,buyer_use_case,consulting,root,buyer_use_case,enterprise,Editorial liaison,approved
+TAX0140,FEED012,buyer_use_case,investor,root,buyer_use_case,enterprise,Research operations,approved
+TAX0141,FEED012,buyer_use_case,corp dev,root,buyer_use_case,enterprise,Data product,approved
+TAX0142,FEED012,validation_status,needs reporter review,root,validation_status,enterprise,Editorial liaison,approved
+TAX0143,FEED012,validation_status,needs public corroboration,root,validation_status,enterprise,Research operations,duplicate risk
+TAX0144,FEED012,validation_status,conflict found,root,validation_status,enterprise,Research operations,needs definition

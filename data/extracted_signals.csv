@@ -1,0 +1,294 @@
+signal_id,feed_id,doc_id,company_id,signal_type,event_date,buyer_use_case,target_product,schema_fields_required,schema_fields_filled,extraction_confidence,source_count,validation_status,commercial_value_score,launch_note
+SIG0001,FEED001,DOC0009,CO029,customer_adoption,2026-04-02,corp dev,company_profile,8,7,0.75,2,validated,57,ready for profile enrichment
+SIG0002,FEED001,DOC0006,CO012,customer_adoption,2026-04-25,corp dev,company_profile,8,6,0.79,2,needs public corroboration,74,map to controlled taxonomy
+SIG0003,FEED001,DOC0007,CO017,vendor_spend,2026-01-25,corp dev,company_profile,8,6,0.9,1,needs reporter review,74,candidate for recurring feed
+SIG0004,FEED001,DOC0001,CO034,vendor_spend,2026-04-20,corp dev,company_profile,8,7,0.98,2,validated,80,map to controlled taxonomy
+SIG0005,FEED001,DOC0001,CO018,valuation_marker,2026-02-25,corp dev,company_profile,8,7,0.82,5,needs reporter review,65,needs second source
+SIG0006,FEED001,DOC0001,CO011,go_to_market_shift,2026-02-07,corp dev,company_profile,8,6,0.88,1,needs reporter review,64,ready for profile enrichment
+SIG0007,FEED001,DOC0007,CO004,market_sentiment,2026-04-30,corp dev,company_profile,8,5,0.77,5,needs public corroboration,80,map to controlled taxonomy
+SIG0008,FEED001,DOC0005,CO017,partnership,2026-03-01,corp dev,company_profile,8,6,0.68,1,needs public corroboration,52,needs second source
+SIG0009,FEED001,DOC0006,CO018,partnership,2026-02-25,corp dev,company_profile,8,8,0.89,3,validated,70,hold for editorial context
+SIG0010,FEED001,DOC0003,CO028,go_to_market_shift,2026-03-18,corp dev,company_profile,8,6,0.62,3,validated,75,candidate for recurring feed
+SIG0011,FEED001,DOC0009,CO017,capacity_expansion,2026-03-02,corp dev,company_profile,8,7,0.75,4,needs reporter review,90,map to controlled taxonomy
+SIG0012,FEED001,DOC0009,CO034,executive_move,2026-02-10,corp dev,company_profile,8,6,0.86,5,needs reporter review,99,hold for editorial context
+SIG0013,FEED001,DOC0006,CO011,product_launch,2026-01-08,corp dev,company_profile,8,6,0.86,1,needs public corroboration,62,map to controlled taxonomy
+SIG0014,FEED001,DOC0008,CO005,market_sentiment,2026-04-28,corp dev,company_profile,8,8,0.6,5,needs reporter review,52,map to controlled taxonomy
+SIG0015,FEED001,DOC0007,CO034,market_sentiment,2026-02-02,corp dev,company_profile,8,5,0.73,2,needs public corroboration,96,hold for editorial context
+SIG0016,FEED001,DOC0008,CO017,product_launch,2026-04-17,corp dev,company_profile,8,8,0.82,4,needs public corroboration,55,hold for editorial context
+SIG0017,FEED001,DOC0009,CO005,valuation_marker,2026-03-03,corp dev,company_profile,8,8,0.7,2,needs public corroboration,98,candidate for recurring feed
+SIG0018,FEED001,DOC0008,CO001,valuation_marker,2026-03-08,corp dev,company_profile,8,7,0.96,2,needs reporter review,88,needs second source
+SIG0019,FEED001,DOC0008,CO011,product_launch,2026-01-24,corp dev,company_profile,8,5,0.76,2,validated,85,candidate for recurring feed
+SIG0020,FEED001,DOC0003,CO002,partnership,2026-03-15,corp dev,company_profile,8,8,0.69,4,validated,77,candidate for recurring feed
+SIG0021,FEED001,DOC0001,CO028,go_to_market_shift,2026-02-22,corp dev,company_profile,8,5,0.84,4,needs reporter review,92,ready for profile enrichment
+SIG0022,FEED001,DOC0006,CO001,capacity_expansion,2026-02-02,corp dev,company_profile,8,6,0.68,3,needs reporter review,74,candidate for recurring feed
+SIG0023,FEED001,DOC0008,CO017,capacity_expansion,2026-01-21,corp dev,company_profile,8,6,0.64,5,needs reporter review,94,hold for editorial context
+SIG0024,FEED001,DOC0001,CO003,executive_move,2026-03-28,corp dev,company_profile,8,5,0.89,4,needs public corroboration,90,map to controlled taxonomy
+SIG0025,FEED001,DOC0008,CO029,market_sentiment,2026-02-09,corp dev,company_profile,8,7,0.89,4,validated,71,needs second source
+SIG0026,FEED001,DOC0002,CO034,partnership,2026-02-02,corp dev,company_profile,8,5,0.82,1,validated,89,ready for profile enrichment
+SIG0027,FEED001,DOC0001,CO028,executive_move,2026-03-18,corp dev,company_profile,8,8,0.79,2,validated,59,candidate for recurring feed
+SIG0028,FEED002,DOC0019,CO004,go_to_market_shift,2026-02-12,investor,deal_timeline,8,6,0.8,1,needs public corroboration,61,map to controlled taxonomy
+SIG0029,FEED002,DOC0011,CO009,capacity_expansion,2026-03-02,investor,deal_timeline,8,8,0.79,3,needs reporter review,62,hold for editorial context
+SIG0030,FEED002,DOC0016,CO029,customer_adoption,2026-03-26,investor,deal_timeline,8,5,0.62,2,needs public corroboration,51,needs second source
+SIG0031,FEED002,DOC0020,CO019,capacity_expansion,2026-04-03,investor,deal_timeline,8,8,0.82,5,validated,51,candidate for recurring feed
+SIG0032,FEED002,DOC0014,CO001,capacity_expansion,2026-01-14,investor,deal_timeline,8,7,0.84,2,validated,96,needs second source
+SIG0033,FEED002,DOC0020,CO016,product_launch,2026-02-08,investor,deal_timeline,8,6,0.63,2,validated,85,ready for profile enrichment
+SIG0034,FEED002,DOC0010,CO031,capacity_expansion,2026-01-20,investor,deal_timeline,8,7,0.54,4,needs reporter review,86,needs second source
+SIG0035,FEED002,DOC0016,CO029,partnership,2026-03-23,investor,deal_timeline,8,8,0.64,3,validated,53,ready for profile enrichment
+SIG0036,FEED002,DOC0011,CO034,vendor_spend,2026-03-19,investor,deal_timeline,8,5,0.78,1,conflict found,84,map to controlled taxonomy
+SIG0037,FEED002,DOC0017,CO009,capacity_expansion,2026-01-16,investor,deal_timeline,8,8,0.63,4,validated,88,needs second source
+SIG0038,FEED002,DOC0016,CO011,partnership,2026-02-26,investor,deal_timeline,8,6,0.56,4,validated,57,needs second source
+SIG0039,FEED002,DOC0020,CO006,partnership,2026-01-19,investor,deal_timeline,8,7,0.84,4,needs public corroboration,68,hold for editorial context
+SIG0040,FEED002,DOC0010,CO004,funding_event,2026-01-29,investor,deal_timeline,8,8,0.64,5,needs reporter review,77,needs second source
+SIG0041,FEED002,DOC0019,CO013,vendor_spend,2026-03-02,investor,deal_timeline,8,6,0.65,4,validated,72,ready for profile enrichment
+SIG0042,FEED002,DOC0010,CO004,vendor_spend,2026-03-16,investor,deal_timeline,8,6,0.78,1,needs public corroboration,63,hold for editorial context
+SIG0043,FEED002,DOC0016,CO019,capacity_expansion,2026-04-06,investor,deal_timeline,8,6,0.82,3,validated,58,hold for editorial context
+SIG0044,FEED002,DOC0014,CO006,capacity_expansion,2026-03-16,investor,deal_timeline,8,6,0.98,2,needs reporter review,78,candidate for recurring feed
+SIG0045,FEED002,DOC0013,CO016,partnership,2026-04-15,investor,deal_timeline,8,8,0.53,5,needs reporter review,65,needs second source
+SIG0046,FEED002,DOC0010,CO029,product_launch,2026-03-03,investor,deal_timeline,8,8,0.77,5,needs reporter review,85,candidate for recurring feed
+SIG0047,FEED003,DOC0023,CO006,vendor_spend,2026-04-20,consulting,executive_move,8,6,0.47,4,needs public corroboration,65,needs second source
+SIG0048,FEED003,DOC0032,CO032,product_launch,2026-04-11,consulting,executive_move,8,5,0.7,2,needs reporter review,81,candidate for recurring feed
+SIG0049,FEED003,DOC0034,CO006,capacity_expansion,2026-02-21,consulting,executive_move,8,5,0.73,3,validated,67,hold for editorial context
+SIG0050,FEED003,DOC0027,CO031,capacity_expansion,2026-01-08,consulting,executive_move,8,6,0.76,5,conflict found,54,hold for editorial context
+SIG0051,FEED003,DOC0026,CO011,market_sentiment,2026-01-19,consulting,executive_move,8,7,0.79,2,needs reporter review,92,ready for profile enrichment
+SIG0052,FEED003,DOC0021,CO024,customer_adoption,2026-04-28,consulting,executive_move,8,5,0.82,5,conflict found,55,map to controlled taxonomy
+SIG0053,FEED003,DOC0027,CO033,go_to_market_shift,2026-04-10,consulting,executive_move,8,8,0.58,2,needs public corroboration,82,candidate for recurring feed
+SIG0054,FEED003,DOC0031,CO020,vendor_spend,2026-01-09,consulting,executive_move,8,8,0.98,3,needs reporter review,87,map to controlled taxonomy
+SIG0055,FEED003,DOC0028,CO033,valuation_marker,2026-04-30,consulting,executive_move,8,7,0.98,3,validated,94,ready for profile enrichment
+SIG0056,FEED003,DOC0027,CO024,executive_move,2026-03-30,consulting,executive_move,8,8,0.71,2,validated,58,hold for editorial context
+SIG0057,FEED003,DOC0021,CO003,executive_move,2026-04-21,consulting,executive_move,8,6,0.8,5,validated,87,map to controlled taxonomy
+SIG0058,FEED003,DOC0030,CO036,product_launch,2026-04-15,consulting,executive_move,8,7,0.69,5,needs reporter review,62,ready for profile enrichment
+SIG0059,FEED003,DOC0025,CO029,product_launch,2026-01-06,consulting,executive_move,8,5,0.93,3,needs reporter review,55,map to controlled taxonomy
+SIG0060,FEED003,DOC0030,CO032,product_launch,2026-04-09,consulting,executive_move,8,5,0.77,4,validated,67,hold for editorial context
+SIG0061,FEED003,DOC0022,CO014,capacity_expansion,2026-03-10,consulting,executive_move,8,5,0.9,2,validated,88,hold for editorial context
+SIG0062,FEED003,DOC0021,CO014,capacity_expansion,2026-03-28,consulting,executive_move,8,7,0.83,1,needs reporter review,90,ready for profile enrichment
+SIG0063,FEED003,DOC0028,CO005,executive_move,2026-02-15,consulting,executive_move,8,5,0.73,5,needs public corroboration,76,map to controlled taxonomy
+SIG0064,FEED003,DOC0022,CO029,market_sentiment,2026-03-22,consulting,executive_move,8,7,0.81,5,validated,91,needs second source
+SIG0065,FEED003,DOC0028,CO010,market_sentiment,2026-03-03,consulting,executive_move,8,6,0.74,2,needs public corroboration,89,candidate for recurring feed
+SIG0066,FEED003,DOC0026,CO033,partnership,2026-02-28,consulting,executive_move,8,5,0.75,3,validated,97,needs second source
+SIG0067,FEED003,DOC0026,CO029,market_sentiment,2026-01-17,consulting,executive_move,8,5,0.73,3,validated,56,map to controlled taxonomy
+SIG0068,FEED004,DOC0047,CO021,partnership,2026-01-24,investor,funding_tracker,8,7,0.65,4,needs public corroboration,88,ready for profile enrichment
+SIG0069,FEED004,DOC0042,CO021,vendor_spend,2026-03-05,investor,funding_tracker,8,5,0.63,4,needs public corroboration,74,ready for profile enrichment
+SIG0070,FEED004,DOC0035,CO006,go_to_market_shift,2026-03-22,investor,funding_tracker,8,5,0.62,5,needs reporter review,56,candidate for recurring feed
+SIG0071,FEED004,DOC0042,CO016,partnership,2026-03-23,investor,funding_tracker,8,6,0.97,4,validated,91,hold for editorial context
+SIG0072,FEED004,DOC0037,CO017,valuation_marker,2026-03-28,investor,funding_tracker,8,5,0.72,2,needs public corroboration,73,ready for profile enrichment
+SIG0073,FEED004,DOC0038,CO021,vendor_spend,2026-02-23,investor,funding_tracker,8,7,0.93,4,needs public corroboration,71,needs second source
+SIG0074,FEED004,DOC0045,CO017,executive_move,2026-02-16,investor,funding_tracker,8,7,0.77,1,needs reporter review,89,hold for editorial context
+SIG0075,FEED004,DOC0045,CO025,partnership,2026-01-15,investor,funding_tracker,8,6,0.74,5,needs public corroboration,86,map to controlled taxonomy
+SIG0076,FEED004,DOC0040,CO005,product_launch,2026-03-22,investor,funding_tracker,8,8,0.97,1,conflict found,92,needs second source
+SIG0077,FEED004,DOC0043,CO025,market_sentiment,2026-03-11,investor,funding_tracker,8,5,0.71,3,validated,95,ready for profile enrichment
+SIG0078,FEED004,DOC0040,CO005,capacity_expansion,2026-01-29,investor,funding_tracker,8,7,0.7,2,validated,64,map to controlled taxonomy
+SIG0079,FEED004,DOC0037,CO013,partnership,2026-04-27,investor,funding_tracker,8,5,0.72,5,needs public corroboration,86,map to controlled taxonomy
+SIG0080,FEED004,DOC0044,CO025,capacity_expansion,2026-01-10,investor,funding_tracker,8,6,0.98,4,validated,62,needs second source
+SIG0081,FEED004,DOC0045,CO010,valuation_marker,2026-02-04,investor,funding_tracker,8,6,0.94,3,needs reporter review,76,candidate for recurring feed
+SIG0082,FEED004,DOC0048,CO010,capacity_expansion,2026-04-13,investor,funding_tracker,8,8,0.75,3,validated,87,candidate for recurring feed
+SIG0083,FEED004,DOC0043,CO016,vendor_spend,2026-01-11,investor,funding_tracker,8,6,0.72,4,validated,89,needs second source
+SIG0084,FEED004,DOC0043,CO013,vendor_spend,2026-01-15,investor,funding_tracker,8,5,0.81,2,needs public corroboration,81,needs second source
+SIG0085,FEED004,DOC0042,CO016,partnership,2026-01-08,investor,funding_tracker,8,8,0.86,4,conflict found,66,ready for profile enrichment
+SIG0086,FEED004,DOC0041,CO016,partnership,2026-02-02,investor,funding_tracker,8,5,0.88,1,validated,75,needs second source
+SIG0087,FEED004,DOC0036,CO006,capacity_expansion,2026-03-03,investor,funding_tracker,8,6,0.8,5,validated,81,ready for profile enrichment
+SIG0088,FEED004,DOC0036,CO017,executive_move,2026-04-14,investor,funding_tracker,8,8,0.72,3,validated,60,map to controlled taxonomy
+SIG0089,FEED004,DOC0039,CO013,executive_move,2026-04-22,investor,funding_tracker,8,5,0.9,4,needs reporter review,81,hold for editorial context
+SIG0090,FEED004,DOC0043,CO017,product_launch,2026-02-11,investor,funding_tracker,8,6,0.82,4,needs public corroboration,84,ready for profile enrichment
+SIG0091,FEED004,DOC0044,CO006,executive_move,2026-03-13,investor,funding_tracker,8,7,0.79,5,needs public corroboration,53,hold for editorial context
+SIG0092,FEED004,DOC0047,CO016,funding_event,2026-03-27,investor,funding_tracker,8,8,0.9,4,needs public corroboration,76,needs second source
+SIG0093,FEED005,DOC0054,CO005,valuation_marker,2026-01-20,enterprise,sentiment_benchmark,8,8,0.78,3,needs reporter review,79,needs second source
+SIG0094,FEED005,DOC0056,CO036,customer_adoption,2026-01-20,enterprise,sentiment_benchmark,8,8,0.84,2,conflict found,66,ready for profile enrichment
+SIG0095,FEED005,DOC0056,CO035,partnership,2026-04-05,enterprise,sentiment_benchmark,8,7,0.88,1,validated,94,hold for editorial context
+SIG0096,FEED005,DOC0057,CO005,partnership,2026-03-11,enterprise,sentiment_benchmark,8,6,0.7,2,needs reporter review,58,ready for profile enrichment
+SIG0097,FEED005,DOC0052,CO035,capacity_expansion,2026-04-17,enterprise,sentiment_benchmark,8,7,0.79,5,validated,87,map to controlled taxonomy
+SIG0098,FEED005,DOC0050,CO024,valuation_marker,2026-02-26,enterprise,sentiment_benchmark,8,8,0.92,4,validated,96,hold for editorial context
+SIG0099,FEED005,DOC0050,CO035,product_launch,2026-04-27,enterprise,sentiment_benchmark,8,7,0.95,5,needs public corroboration,91,hold for editorial context
+SIG0100,FEED005,DOC0051,CO035,valuation_marker,2026-01-24,enterprise,sentiment_benchmark,8,5,0.75,3,validated,54,map to controlled taxonomy
+SIG0101,FEED005,DOC0051,CO019,executive_move,2026-02-06,enterprise,sentiment_benchmark,8,7,0.86,2,conflict found,81,hold for editorial context
+SIG0102,FEED005,DOC0053,CO035,valuation_marker,2026-03-28,enterprise,sentiment_benchmark,8,5,0.75,2,needs public corroboration,87,hold for editorial context
+SIG0103,FEED005,DOC0051,CO035,funding_event,2026-01-15,enterprise,sentiment_benchmark,8,5,0.68,1,needs public corroboration,84,hold for editorial context
+SIG0104,FEED005,DOC0053,CO036,capacity_expansion,2026-04-28,enterprise,sentiment_benchmark,8,5,0.62,5,needs reporter review,74,needs second source
+SIG0105,FEED005,DOC0053,CO017,funding_event,2026-01-25,enterprise,sentiment_benchmark,8,5,0.79,4,validated,80,candidate for recurring feed
+SIG0106,FEED005,DOC0056,CO017,partnership,2026-04-25,enterprise,sentiment_benchmark,8,6,0.98,3,validated,89,needs second source
+SIG0107,FEED005,DOC0055,CO035,executive_move,2026-02-08,enterprise,sentiment_benchmark,8,8,0.79,4,validated,66,map to controlled taxonomy
+SIG0108,FEED005,DOC0051,CO024,customer_adoption,2026-04-25,enterprise,sentiment_benchmark,8,8,0.64,2,validated,75,needs second source
+SIG0109,FEED005,DOC0054,CO036,capacity_expansion,2026-01-07,enterprise,sentiment_benchmark,8,7,0.79,1,needs public corroboration,79,candidate for recurring feed
+SIG0110,FEED005,DOC0057,CO017,funding_event,2026-01-11,enterprise,sentiment_benchmark,8,7,0.64,3,conflict found,61,candidate for recurring feed
+SIG0111,FEED005,DOC0056,CO005,market_sentiment,2026-02-20,enterprise,sentiment_benchmark,8,7,0.55,1,validated,67,candidate for recurring feed
+SIG0112,FEED005,DOC0049,CO012,executive_move,2026-02-23,enterprise,sentiment_benchmark,8,7,0.73,5,validated,86,candidate for recurring feed
+SIG0113,FEED005,DOC0057,CO005,market_sentiment,2026-02-21,enterprise,sentiment_benchmark,8,5,0.86,3,needs public corroboration,56,hold for editorial context
+SIG0114,FEED005,DOC0054,CO035,valuation_marker,2026-01-10,enterprise,sentiment_benchmark,8,8,0.63,1,validated,83,ready for profile enrichment
+SIG0115,FEED005,DOC0051,CO019,partnership,2026-03-24,enterprise,sentiment_benchmark,8,6,0.83,3,validated,83,map to controlled taxonomy
+SIG0116,FEED005,DOC0055,CO005,go_to_market_shift,2026-02-12,enterprise,sentiment_benchmark,8,8,0.64,4,needs public corroboration,80,ready for profile enrichment
+SIG0117,FEED006,DOC0066,CO033,executive_move,2026-02-16,enterprise,buyer_signal,8,6,0.83,2,needs public corroboration,69,candidate for recurring feed
+SIG0118,FEED006,DOC0062,CO030,vendor_spend,2026-03-18,enterprise,buyer_signal,8,7,0.74,2,validated,98,map to controlled taxonomy
+SIG0119,FEED006,DOC0067,CO021,market_sentiment,2026-03-31,enterprise,buyer_signal,8,5,0.7,1,validated,71,map to controlled taxonomy
+SIG0120,FEED006,DOC0060,CO033,vendor_spend,2026-02-23,enterprise,buyer_signal,8,5,0.69,2,validated,66,candidate for recurring feed
+SIG0121,FEED006,DOC0062,CO001,customer_adoption,2026-01-12,enterprise,buyer_signal,8,7,0.72,1,validated,92,candidate for recurring feed
+SIG0122,FEED006,DOC0062,CO012,executive_move,2026-03-27,enterprise,buyer_signal,8,7,0.96,3,validated,83,needs second source
+SIG0123,FEED006,DOC0067,CO019,market_sentiment,2026-04-04,enterprise,buyer_signal,8,7,0.79,5,validated,98,candidate for recurring feed
+SIG0124,FEED006,DOC0066,CO015,go_to_market_shift,2026-04-26,enterprise,buyer_signal,8,6,0.84,1,needs public corroboration,65,hold for editorial context
+SIG0125,FEED006,DOC0065,CO020,go_to_market_shift,2026-03-14,enterprise,buyer_signal,8,6,0.77,2,needs public corroboration,51,map to controlled taxonomy
+SIG0126,FEED006,DOC0063,CO021,go_to_market_shift,2026-03-08,enterprise,buyer_signal,8,6,0.73,1,needs public corroboration,55,hold for editorial context
+SIG0127,FEED006,DOC0065,CO015,valuation_marker,2026-03-05,enterprise,buyer_signal,8,5,0.84,3,validated,87,ready for profile enrichment
+SIG0128,FEED006,DOC0064,CO003,go_to_market_shift,2026-01-14,enterprise,buyer_signal,8,6,0.8,1,needs reporter review,99,candidate for recurring feed
+SIG0129,FEED006,DOC0063,CO030,funding_event,2026-02-10,enterprise,buyer_signal,8,8,0.98,4,conflict found,52,map to controlled taxonomy
+SIG0130,FEED006,DOC0060,CO015,partnership,2026-04-29,enterprise,buyer_signal,8,8,0.93,4,needs public corroboration,94,candidate for recurring feed
+SIG0131,FEED006,DOC0064,CO010,executive_move,2026-01-27,enterprise,buyer_signal,8,7,0.98,5,needs reporter review,60,candidate for recurring feed
+SIG0132,FEED006,DOC0066,CO012,funding_event,2026-02-12,enterprise,buyer_signal,8,5,0.93,4,needs reporter review,66,hold for editorial context
+SIG0133,FEED006,DOC0064,CO020,customer_adoption,2026-04-27,enterprise,buyer_signal,8,7,0.72,1,needs public corroboration,61,ready for profile enrichment
+SIG0134,FEED006,DOC0064,CO004,customer_adoption,2026-01-13,enterprise,buyer_signal,8,6,0.84,1,needs reporter review,53,hold for editorial context
+SIG0135,FEED006,DOC0058,CO033,market_sentiment,2026-03-02,enterprise,buyer_signal,8,5,0.63,2,validated,98,hold for editorial context
+SIG0136,FEED006,DOC0061,CO015,valuation_marker,2026-02-11,enterprise,buyer_signal,8,6,0.67,2,needs reporter review,51,hold for editorial context
+SIG0137,FEED006,DOC0063,CO004,valuation_marker,2026-02-02,enterprise,buyer_signal,8,6,0.63,4,validated,70,needs second source
+SIG0138,FEED006,DOC0062,CO026,market_sentiment,2026-03-17,enterprise,buyer_signal,8,6,0.68,4,needs public corroboration,85,ready for profile enrichment
+SIG0139,FEED006,DOC0063,CO011,product_launch,2026-02-12,enterprise,buyer_signal,8,8,0.68,4,validated,77,map to controlled taxonomy
+SIG0140,FEED006,DOC0066,CO033,product_launch,2026-04-18,enterprise,buyer_signal,8,7,0.59,4,validated,69,ready for profile enrichment
+SIG0141,FEED006,DOC0066,CO010,customer_adoption,2026-02-16,enterprise,buyer_signal,8,7,0.93,1,validated,70,candidate for recurring feed
+SIG0142,FEED006,DOC0063,CO032,vendor_spend,2026-02-22,enterprise,buyer_signal,8,5,0.75,5,needs public corroboration,60,hold for editorial context
+SIG0143,FEED007,DOC0070,CO025,market_sentiment,2026-04-11,advisory,company_profile,8,7,0.79,2,validated,89,ready for profile enrichment
+SIG0144,FEED007,DOC0076,CO013,market_sentiment,2026-02-03,advisory,company_profile,8,5,0.98,1,conflict found,51,needs second source
+SIG0145,FEED007,DOC0077,CO034,vendor_spend,2026-04-15,advisory,company_profile,8,5,0.66,4,conflict found,72,candidate for recurring feed
+SIG0146,FEED007,DOC0071,CO001,product_launch,2026-04-02,advisory,company_profile,8,8,0.67,5,needs public corroboration,72,candidate for recurring feed
+SIG0147,FEED007,DOC0069,CO034,product_launch,2026-02-22,advisory,company_profile,8,7,0.62,2,needs public corroboration,53,candidate for recurring feed
+SIG0148,FEED007,DOC0073,CO001,capacity_expansion,2026-02-20,advisory,company_profile,8,7,0.63,3,validated,55,ready for profile enrichment
+SIG0149,FEED007,DOC0070,CO035,funding_event,2026-01-16,advisory,company_profile,8,5,0.83,3,needs public corroboration,78,hold for editorial context
+SIG0150,FEED007,DOC0069,CO025,funding_event,2026-02-11,advisory,company_profile,8,8,0.9,4,needs public corroboration,68,candidate for recurring feed
+SIG0151,FEED007,DOC0080,CO035,market_sentiment,2026-01-26,advisory,company_profile,8,6,0.76,2,conflict found,63,needs second source
+SIG0152,FEED007,DOC0072,CO021,market_sentiment,2026-02-09,advisory,company_profile,8,6,0.63,4,needs public corroboration,52,needs second source
+SIG0153,FEED007,DOC0075,CO034,go_to_market_shift,2026-03-24,advisory,company_profile,8,8,0.86,2,validated,91,candidate for recurring feed
+SIG0154,FEED007,DOC0069,CO003,go_to_market_shift,2026-02-22,advisory,company_profile,8,7,0.82,3,validated,76,candidate for recurring feed
+SIG0155,FEED007,DOC0073,CO007,partnership,2026-03-23,advisory,company_profile,8,7,0.88,2,conflict found,60,candidate for recurring feed
+SIG0156,FEED007,DOC0073,CO003,capacity_expansion,2026-03-19,advisory,company_profile,8,7,0.56,2,conflict found,72,needs second source
+SIG0157,FEED007,DOC0074,CO021,go_to_market_shift,2026-03-15,advisory,company_profile,8,6,0.83,2,validated,87,hold for editorial context
+SIG0158,FEED007,DOC0068,CO013,capacity_expansion,2026-04-17,advisory,company_profile,8,6,0.67,3,needs public corroboration,93,ready for profile enrichment
+SIG0159,FEED007,DOC0080,CO034,product_launch,2026-04-06,advisory,company_profile,8,7,0.66,4,needs public corroboration,63,candidate for recurring feed
+SIG0160,FEED007,DOC0069,CO019,valuation_marker,2026-03-10,advisory,company_profile,8,8,0.86,4,conflict found,78,hold for editorial context
+SIG0161,FEED007,DOC0068,CO034,executive_move,2026-04-13,advisory,company_profile,8,5,0.96,2,needs reporter review,86,needs second source
+SIG0162,FEED007,DOC0070,CO023,partnership,2026-04-16,advisory,company_profile,8,8,0.74,4,needs public corroboration,88,ready for profile enrichment
+SIG0163,FEED007,DOC0068,CO035,capacity_expansion,2026-02-21,advisory,company_profile,8,6,0.77,4,needs public corroboration,85,candidate for recurring feed
+SIG0164,FEED007,DOC0080,CO023,partnership,2026-01-08,advisory,company_profile,8,6,0.92,4,needs public corroboration,80,ready for profile enrichment
+SIG0165,FEED008,DOC0083,CO013,customer_adoption,2026-03-14,corp dev,deal_timeline,8,7,0.58,3,validated,53,map to controlled taxonomy
+SIG0166,FEED008,DOC0088,CO023,go_to_market_shift,2026-01-19,corp dev,deal_timeline,8,5,0.69,3,needs reporter review,79,hold for editorial context
+SIG0167,FEED008,DOC0086,CO031,market_sentiment,2026-01-18,corp dev,deal_timeline,8,6,0.8,2,needs public corroboration,82,needs second source
+SIG0168,FEED008,DOC0081,CO016,executive_move,2026-04-14,corp dev,deal_timeline,8,8,0.75,2,validated,60,map to controlled taxonomy
+SIG0169,FEED008,DOC0086,CO023,funding_event,2026-03-18,corp dev,deal_timeline,8,6,0.73,3,validated,64,hold for editorial context
+SIG0170,FEED008,DOC0085,CO023,vendor_spend,2026-03-19,corp dev,deal_timeline,8,7,0.73,3,needs public corroboration,68,hold for editorial context
+SIG0171,FEED008,DOC0082,CO025,product_launch,2026-02-05,corp dev,deal_timeline,8,6,0.98,2,needs reporter review,65,needs second source
+SIG0172,FEED008,DOC0084,CO015,market_sentiment,2026-02-22,corp dev,deal_timeline,8,7,0.73,4,validated,60,ready for profile enrichment
+SIG0173,FEED008,DOC0082,CO022,capacity_expansion,2026-02-15,corp dev,deal_timeline,8,8,0.68,5,conflict found,71,ready for profile enrichment
+SIG0174,FEED008,DOC0082,CO016,executive_move,2026-04-16,corp dev,deal_timeline,8,7,0.77,5,needs public corroboration,92,candidate for recurring feed
+SIG0175,FEED008,DOC0084,CO022,valuation_marker,2026-03-19,corp dev,deal_timeline,8,7,0.84,2,validated,69,hold for editorial context
+SIG0176,FEED008,DOC0088,CO014,funding_event,2026-01-17,corp dev,deal_timeline,8,5,0.66,4,needs reporter review,96,ready for profile enrichment
+SIG0177,FEED008,DOC0082,CO025,vendor_spend,2026-01-25,corp dev,deal_timeline,8,6,0.78,3,conflict found,60,ready for profile enrichment
+SIG0178,FEED008,DOC0086,CO032,funding_event,2026-02-24,corp dev,deal_timeline,8,6,0.78,3,validated,93,map to controlled taxonomy
+SIG0179,FEED008,DOC0087,CO015,go_to_market_shift,2026-02-02,corp dev,deal_timeline,8,6,0.83,5,validated,55,candidate for recurring feed
+SIG0180,FEED008,DOC0081,CO009,product_launch,2026-03-07,corp dev,deal_timeline,8,8,0.81,1,needs public corroboration,59,map to controlled taxonomy
+SIG0181,FEED008,DOC0087,CO013,market_sentiment,2026-04-14,corp dev,deal_timeline,8,6,0.77,2,validated,70,map to controlled taxonomy
+SIG0182,FEED008,DOC0082,CO031,capacity_expansion,2026-02-18,corp dev,deal_timeline,8,6,0.72,2,needs public corroboration,87,map to controlled taxonomy
+SIG0183,FEED008,DOC0087,CO023,executive_move,2026-03-21,corp dev,deal_timeline,8,6,0.69,4,validated,57,needs second source
+SIG0184,FEED008,DOC0087,CO014,executive_move,2026-02-05,corp dev,deal_timeline,8,7,0.56,5,needs reporter review,63,hold for editorial context
+SIG0185,FEED008,DOC0085,CO009,market_sentiment,2026-02-11,corp dev,deal_timeline,8,6,0.88,1,validated,84,map to controlled taxonomy
+SIG0186,FEED008,DOC0088,CO022,valuation_marker,2026-04-28,corp dev,deal_timeline,8,5,0.64,1,validated,82,needs second source
+SIG0187,FEED008,DOC0086,CO025,capacity_expansion,2026-04-13,corp dev,deal_timeline,8,6,0.61,1,validated,85,ready for profile enrichment
+SIG0188,FEED008,DOC0082,CO009,market_sentiment,2026-03-10,corp dev,deal_timeline,8,5,0.93,3,validated,53,hold for editorial context
+SIG0189,FEED008,DOC0087,CO022,vendor_spend,2026-01-15,corp dev,deal_timeline,8,6,0.77,3,needs public corroboration,87,ready for profile enrichment
+SIG0190,FEED009,DOC0096,CO008,executive_move,2026-01-30,investor,company_profile,8,6,0.73,2,validated,68,hold for editorial context
+SIG0191,FEED009,DOC0091,CO004,customer_adoption,2026-03-03,investor,company_profile,8,7,0.88,3,validated,62,candidate for recurring feed
+SIG0192,FEED009,DOC0094,CO005,go_to_market_shift,2026-01-10,investor,company_profile,8,7,0.86,2,validated,94,needs second source
+SIG0193,FEED009,DOC0092,CO005,vendor_spend,2026-04-19,investor,company_profile,8,7,0.7,2,validated,54,ready for profile enrichment
+SIG0194,FEED009,DOC0096,CO032,executive_move,2026-03-05,investor,company_profile,8,6,0.47,1,needs public corroboration,83,map to controlled taxonomy
+SIG0195,FEED009,DOC0091,CO026,partnership,2026-04-02,investor,company_profile,8,8,0.97,1,validated,67,hold for editorial context
+SIG0196,FEED009,DOC0099,CO009,executive_move,2026-01-30,investor,company_profile,8,5,0.86,4,needs reporter review,52,map to controlled taxonomy
+SIG0197,FEED009,DOC0091,CO008,market_sentiment,2026-03-09,investor,company_profile,8,8,0.98,1,validated,91,candidate for recurring feed
+SIG0198,FEED009,DOC0100,CO010,vendor_spend,2026-02-09,investor,company_profile,8,6,0.98,4,validated,68,map to controlled taxonomy
+SIG0199,FEED009,DOC0090,CO028,executive_move,2026-02-09,investor,company_profile,8,5,0.7,4,needs reporter review,78,map to controlled taxonomy
+SIG0200,FEED009,DOC0096,CO028,valuation_marker,2026-04-16,investor,company_profile,8,6,0.67,1,needs public corroboration,81,candidate for recurring feed
+SIG0201,FEED009,DOC0101,CO008,market_sentiment,2026-02-08,investor,company_profile,8,7,0.57,2,validated,87,ready for profile enrichment
+SIG0202,FEED009,DOC0095,CO028,capacity_expansion,2026-03-13,investor,company_profile,8,5,0.81,3,validated,68,hold for editorial context
+SIG0203,FEED009,DOC0093,CO004,customer_adoption,2026-03-19,investor,company_profile,8,5,0.92,4,validated,98,needs second source
+SIG0204,FEED009,DOC0092,CO004,go_to_market_shift,2026-01-08,investor,company_profile,8,7,0.88,3,validated,71,hold for editorial context
+SIG0205,FEED009,DOC0099,CO004,product_launch,2026-03-08,investor,company_profile,8,7,0.71,1,conflict found,79,ready for profile enrichment
+SIG0206,FEED009,DOC0090,CO028,funding_event,2026-02-16,investor,company_profile,8,8,0.75,5,needs public corroboration,49,map to controlled taxonomy
+SIG0207,FEED009,DOC0092,CO008,funding_event,2026-01-23,investor,company_profile,8,5,0.72,5,needs reporter review,68,map to controlled taxonomy
+SIG0208,FEED009,DOC0091,CO033,market_sentiment,2026-03-21,investor,company_profile,8,7,0.52,1,needs reporter review,56,needs second source
+SIG0209,FEED009,DOC0094,CO008,partnership,2026-01-27,investor,company_profile,8,8,0.83,5,conflict found,88,hold for editorial context
+SIG0210,FEED009,DOC0095,CO028,vendor_spend,2026-04-08,investor,company_profile,8,8,0.83,3,needs public corroboration,59,map to controlled taxonomy
+SIG0211,FEED009,DOC0092,CO026,product_launch,2026-03-23,investor,company_profile,8,5,0.98,3,validated,87,hold for editorial context
+SIG0212,FEED009,DOC0093,CO005,executive_move,2026-02-04,investor,company_profile,8,7,0.69,3,conflict found,57,needs second source
+SIG0213,FEED010,DOC0106,CO008,valuation_marker,2026-02-26,advisory,survey_benchmark,8,7,0.97,5,needs public corroboration,53,map to controlled taxonomy
+SIG0214,FEED010,DOC0102,CO015,go_to_market_shift,2026-04-27,advisory,survey_benchmark,8,8,0.86,2,needs reporter review,74,candidate for recurring feed
+SIG0215,FEED010,DOC0106,CO024,executive_move,2026-04-11,advisory,survey_benchmark,8,6,0.59,4,validated,87,map to controlled taxonomy
+SIG0216,FEED010,DOC0104,CO029,market_sentiment,2026-01-15,advisory,survey_benchmark,8,5,0.92,4,needs reporter review,60,map to controlled taxonomy
+SIG0217,FEED010,DOC0104,CO008,market_sentiment,2026-03-17,advisory,survey_benchmark,8,5,0.77,4,needs reporter review,56,hold for editorial context
+SIG0218,FEED010,DOC0107,CO003,executive_move,2026-02-27,advisory,survey_benchmark,8,8,0.98,2,needs public corroboration,48,map to controlled taxonomy
+SIG0219,FEED010,DOC0103,CO024,market_sentiment,2026-02-07,advisory,survey_benchmark,8,7,0.73,4,validated,89,candidate for recurring feed
+SIG0220,FEED010,DOC0109,CO025,go_to_market_shift,2026-03-23,advisory,survey_benchmark,8,6,0.76,4,validated,76,ready for profile enrichment
+SIG0221,FEED010,DOC0108,CO009,funding_event,2026-02-17,advisory,survey_benchmark,8,7,0.77,3,needs public corroboration,69,needs second source
+SIG0222,FEED010,DOC0106,CO030,customer_adoption,2026-01-22,advisory,survey_benchmark,8,5,0.74,3,needs reporter review,91,candidate for recurring feed
+SIG0223,FEED010,DOC0107,CO003,market_sentiment,2026-04-09,advisory,survey_benchmark,8,6,0.76,4,validated,79,hold for editorial context
+SIG0224,FEED010,DOC0107,CO025,vendor_spend,2026-04-05,advisory,survey_benchmark,8,5,0.62,5,needs public corroboration,58,candidate for recurring feed
+SIG0225,FEED010,DOC0104,CO031,customer_adoption,2026-01-09,advisory,survey_benchmark,8,5,0.8,4,validated,67,ready for profile enrichment
+SIG0226,FEED010,DOC0107,CO029,executive_move,2026-04-02,advisory,survey_benchmark,8,8,0.76,1,validated,80,map to controlled taxonomy
+SIG0227,FEED010,DOC0107,CO030,partnership,2026-01-25,advisory,survey_benchmark,8,7,0.72,3,needs reporter review,85,ready for profile enrichment
+SIG0228,FEED010,DOC0106,CO025,customer_adoption,2026-03-28,advisory,survey_benchmark,8,6,0.74,2,validated,61,map to controlled taxonomy
+SIG0229,FEED010,DOC0106,CO015,capacity_expansion,2026-01-21,advisory,survey_benchmark,8,5,0.54,2,conflict found,91,hold for editorial context
+SIG0230,FEED010,DOC0102,CO029,market_sentiment,2026-04-29,advisory,survey_benchmark,8,7,0.76,4,validated,70,needs second source
+SIG0231,FEED010,DOC0109,CO003,go_to_market_shift,2026-01-18,advisory,survey_benchmark,8,8,0.8,1,needs public corroboration,87,hold for editorial context
+SIG0232,FEED010,DOC0107,CO031,vendor_spend,2026-04-02,advisory,survey_benchmark,8,7,0.88,1,needs public corroboration,86,candidate for recurring feed
+SIG0233,FEED010,DOC0103,CO009,customer_adoption,2026-01-24,advisory,survey_benchmark,8,7,0.95,5,needs reporter review,68,map to controlled taxonomy
+SIG0234,FEED010,DOC0102,CO008,funding_event,2026-03-29,advisory,survey_benchmark,8,6,0.77,4,validated,71,needs second source
+SIG0235,FEED010,DOC0106,CO015,partnership,2026-04-07,advisory,survey_benchmark,8,6,0.62,2,needs public corroboration,84,hold for editorial context
+SIG0236,FEED010,DOC0109,CO009,vendor_spend,2026-01-17,advisory,survey_benchmark,8,6,0.89,4,needs public corroboration,58,map to controlled taxonomy
+SIG0237,FEED010,DOC0106,CO031,customer_adoption,2026-02-19,advisory,survey_benchmark,8,5,0.79,2,needs public corroboration,69,needs second source
+SIG0238,FEED010,DOC0108,CO009,capacity_expansion,2026-04-23,advisory,survey_benchmark,8,7,0.7,1,validated,92,candidate for recurring feed
+SIG0239,FEED010,DOC0102,CO008,market_sentiment,2026-03-13,advisory,survey_benchmark,8,5,0.63,3,needs public corroboration,60,candidate for recurring feed
+SIG0240,FEED010,DOC0102,CO012,market_sentiment,2026-03-18,advisory,survey_benchmark,8,7,0.7,4,validated,63,map to controlled taxonomy
+SIG0241,FEED010,DOC0107,CO012,funding_event,2026-01-05,advisory,survey_benchmark,8,7,0.81,4,needs public corroboration,59,needs second source
+SIG0242,FEED010,DOC0105,CO012,executive_move,2026-01-21,advisory,survey_benchmark,8,8,0.64,5,needs public corroboration,58,candidate for recurring feed
+SIG0243,FEED010,DOC0108,CO015,partnership,2026-01-06,advisory,survey_benchmark,8,6,0.66,3,validated,89,hold for editorial context
+SIG0244,FEED011,DOC0116,CO035,product_launch,2026-01-18,advisory,buyer_signal,8,5,0.84,4,validated,99,hold for editorial context
+SIG0245,FEED011,DOC0117,CO023,capacity_expansion,2026-03-08,advisory,buyer_signal,8,6,0.83,1,validated,52,candidate for recurring feed
+SIG0246,FEED011,DOC0117,CO008,funding_event,2026-04-05,advisory,buyer_signal,8,7,0.89,5,validated,92,hold for editorial context
+SIG0247,FEED011,DOC0119,CO030,market_sentiment,2026-03-30,advisory,buyer_signal,8,5,0.96,2,validated,88,candidate for recurring feed
+SIG0248,FEED011,DOC0115,CO013,funding_event,2026-03-28,advisory,buyer_signal,8,5,0.76,2,validated,90,hold for editorial context
+SIG0249,FEED011,DOC0117,CO023,vendor_spend,2026-01-11,advisory,buyer_signal,8,7,0.81,5,needs public corroboration,63,map to controlled taxonomy
+SIG0250,FEED011,DOC0118,CO013,capacity_expansion,2026-03-02,advisory,buyer_signal,8,5,0.75,5,validated,66,candidate for recurring feed
+SIG0251,FEED011,DOC0111,CO023,executive_move,2026-02-25,advisory,buyer_signal,8,5,0.72,4,needs public corroboration,89,ready for profile enrichment
+SIG0252,FEED011,DOC0118,CO028,valuation_marker,2026-03-17,advisory,buyer_signal,8,7,0.8,2,validated,56,candidate for recurring feed
+SIG0253,FEED011,DOC0115,CO027,partnership,2026-04-06,advisory,buyer_signal,8,8,0.88,4,needs reporter review,73,ready for profile enrichment
+SIG0254,FEED011,DOC0111,CO030,valuation_marker,2026-03-12,advisory,buyer_signal,8,7,0.58,3,validated,73,ready for profile enrichment
+SIG0255,FEED011,DOC0110,CO035,vendor_spend,2026-03-24,advisory,buyer_signal,8,5,0.56,2,needs reporter review,74,map to controlled taxonomy
+SIG0256,FEED011,DOC0111,CO013,executive_move,2026-04-11,advisory,buyer_signal,8,7,0.79,4,validated,63,ready for profile enrichment
+SIG0257,FEED011,DOC0120,CO026,capacity_expansion,2026-01-05,advisory,buyer_signal,8,6,0.8,5,needs public corroboration,80,ready for profile enrichment
+SIG0258,FEED011,DOC0118,CO013,go_to_market_shift,2026-01-27,advisory,buyer_signal,8,6,0.65,2,needs reporter review,78,ready for profile enrichment
+SIG0259,FEED011,DOC0116,CO027,vendor_spend,2026-02-24,advisory,buyer_signal,8,6,0.66,3,conflict found,96,needs second source
+SIG0260,FEED011,DOC0117,CO035,valuation_marker,2026-04-25,advisory,buyer_signal,8,7,0.78,3,validated,89,hold for editorial context
+SIG0261,FEED011,DOC0120,CO030,product_launch,2026-03-10,advisory,buyer_signal,8,6,0.83,5,validated,73,needs second source
+SIG0262,FEED011,DOC0111,CO027,valuation_marker,2026-02-10,advisory,buyer_signal,8,8,0.94,4,needs public corroboration,85,ready for profile enrichment
+SIG0263,FEED011,DOC0118,CO026,product_launch,2026-02-10,advisory,buyer_signal,8,7,0.85,3,needs public corroboration,60,map to controlled taxonomy
+SIG0264,FEED011,DOC0110,CO018,partnership,2026-04-19,advisory,buyer_signal,8,5,0.79,4,validated,85,ready for profile enrichment
+SIG0265,FEED011,DOC0119,CO028,funding_event,2026-02-22,advisory,buyer_signal,8,7,0.91,4,needs public corroboration,67,candidate for recurring feed
+SIG0266,FEED011,DOC0120,CO027,vendor_spend,2026-01-30,advisory,buyer_signal,8,5,0.63,5,conflict found,51,candidate for recurring feed
+SIG0267,FEED011,DOC0113,CO027,vendor_spend,2026-03-03,advisory,buyer_signal,8,6,0.78,2,needs public corroboration,94,ready for profile enrichment
+SIG0268,FEED011,DOC0112,CO035,funding_event,2026-02-28,advisory,buyer_signal,8,8,0.63,3,needs reporter review,55,hold for editorial context
+SIG0269,FEED012,DOC0123,CO013,product_launch,2026-02-12,enterprise,funding_tracker,8,7,0.82,3,needs reporter review,82,ready for profile enrichment
+SIG0270,FEED012,DOC0123,CO019,valuation_marker,2026-03-16,enterprise,funding_tracker,8,8,0.98,1,validated,87,needs second source
+SIG0271,FEED012,DOC0124,CO001,product_launch,2026-01-28,enterprise,funding_tracker,8,6,0.77,2,validated,96,hold for editorial context
+SIG0272,FEED012,DOC0125,CO006,valuation_marker,2026-03-05,enterprise,funding_tracker,8,5,0.59,5,validated,97,ready for profile enrichment
+SIG0273,FEED012,DOC0125,CO022,partnership,2026-01-21,enterprise,funding_tracker,8,7,0.83,2,needs reporter review,83,ready for profile enrichment
+SIG0274,FEED012,DOC0125,CO028,capacity_expansion,2026-03-03,enterprise,funding_tracker,8,7,0.8,3,validated,67,hold for editorial context
+SIG0275,FEED012,DOC0125,CO001,product_launch,2026-01-05,enterprise,funding_tracker,8,8,0.65,3,validated,75,map to controlled taxonomy
+SIG0276,FEED012,DOC0124,CO001,partnership,2026-01-22,enterprise,funding_tracker,8,7,0.7,3,needs reporter review,79,candidate for recurring feed
+SIG0277,FEED012,DOC0128,CO015,vendor_spend,2026-04-24,enterprise,funding_tracker,8,5,0.72,2,needs public corroboration,63,hold for editorial context
+SIG0278,FEED012,DOC0124,CO035,executive_move,2026-04-29,enterprise,funding_tracker,8,5,0.86,1,needs reporter review,92,hold for editorial context
+SIG0279,FEED012,DOC0121,CO028,valuation_marker,2026-04-29,enterprise,funding_tracker,8,7,0.6,5,validated,53,candidate for recurring feed
+SIG0280,FEED012,DOC0123,CO025,product_launch,2026-03-05,enterprise,funding_tracker,8,7,0.68,5,validated,88,hold for editorial context
+SIG0281,FEED012,DOC0122,CO030,valuation_marker,2026-01-22,enterprise,funding_tracker,8,6,0.77,4,validated,94,map to controlled taxonomy
+SIG0282,FEED012,DOC0123,CO028,capacity_expansion,2026-02-19,enterprise,funding_tracker,8,6,0.79,1,conflict found,90,map to controlled taxonomy
+SIG0283,FEED012,DOC0128,CO006,market_sentiment,2026-03-06,enterprise,funding_tracker,8,7,0.89,4,validated,68,ready for profile enrichment
+SIG0284,FEED012,DOC0121,CO022,vendor_spend,2026-03-20,enterprise,funding_tracker,8,7,0.82,5,validated,96,hold for editorial context
+SIG0285,FEED012,DOC0123,CO030,market_sentiment,2026-02-02,enterprise,funding_tracker,8,7,0.71,5,needs public corroboration,52,candidate for recurring feed
+SIG0286,FEED012,DOC0126,CO025,valuation_marker,2026-04-27,enterprise,funding_tracker,8,5,0.69,2,needs public corroboration,78,candidate for recurring feed
+SIG0287,FEED012,DOC0123,CO006,partnership,2026-03-23,enterprise,funding_tracker,8,6,0.93,1,validated,62,map to controlled taxonomy
+SIG0288,FEED012,DOC0127,CO025,capacity_expansion,2026-01-31,enterprise,funding_tracker,8,8,0.86,5,needs reporter review,82,map to controlled taxonomy
+SIG0289,FEED012,DOC0127,CO007,go_to_market_shift,2026-01-23,enterprise,funding_tracker,8,5,0.78,1,needs public corroboration,60,map to controlled taxonomy
+SIG0290,FEED012,DOC0125,CO020,vendor_spend,2026-01-15,enterprise,funding_tracker,8,5,0.84,2,needs public corroboration,77,candidate for recurring feed
+SIG0291,FEED012,DOC0128,CO015,go_to_market_shift,2026-03-30,enterprise,funding_tracker,8,6,0.89,5,needs public corroboration,89,needs second source
+SIG0292,FEED012,DOC0123,CO001,customer_adoption,2026-02-22,enterprise,funding_tracker,8,5,0.98,4,needs public corroboration,77,map to controlled taxonomy
+SIG0293,FEED012,DOC0122,CO007,go_to_market_shift,2026-01-17,enterprise,funding_tracker,8,6,0.85,2,needs public corroboration,78,candidate for recurring feed

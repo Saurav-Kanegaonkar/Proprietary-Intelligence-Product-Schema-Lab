@@ -1,0 +1,37 @@
+company_id,company_name,sector,stage,hq_region,headcount_band,funding_stage,valuation_band,profile_completeness,public_corroboration_count,proprietary_signal_count
+CO001,Atlas Vector,Cloud Platforms,Seed,Austin,51-200,Series A,$25M-$75M,0.87,5,13
+CO002,Northstar Compute,Private Markets,Series A,Seattle,1-50,Bootstrapped,<$25M,0.67,4,11
+CO003,Cobalt Ledger,AI Infrastructure,Growth,London,1000+,Series C,$25M-$75M,0.76,2,14
+CO004,SignalForge,AI Infrastructure,Pre IPO,New York,501-1000,Series B,$75M-$250M,0.64,2,3
+CO005,BrightLayer AI,Cloud Platforms,Series B,Austin,201-500,Growth,$75M-$250M,0.89,5,9
+CO006,Nexus Cloud,Private Markets,Series A,Seattle,1-50,Growth,$75M-$250M,0.9,4,15
+CO007,VaultSpan,Enterprise AI,Growth,London,1-50,Bootstrapped,$25M-$75M,0.88,0,15
+CO008,Meridian Chips,Cybersecurity,Pre IPO,Seattle,201-500,Series C,$75M-$250M,0.64,2,5
+CO009,CreatorGrid,Dealmaking,Pre IPO,London,1-50,Growth,$25M-$75M,0.79,1,4
+CO010,Harbor Robotics,Private Capital,Series B,London,1000+,Series A,$75M-$250M,0.91,0,5
+CO011,Prism Security,AI Infrastructure,Pre IPO,Seattle,201-500,Bootstrapped,$25M-$75M,0.94,4,13
+CO012,CircuitLake,Enterprise AI,Series B,Seattle,501-1000,Strategic backed,$250M-$1B,0.64,1,5
+CO013,FoundryStack,Private Markets,Growth,London,1000+,Series C,>$1B,0.74,1,4
+CO014,Apex Data Centers,Private Markets,Growth,Singapore,1-50,Bootstrapped,$25M-$75M,0.82,5,8
+CO015,LumenPay,Semiconductors,Series A,Seattle,1000+,Series C,>$1B,0.68,4,15
+CO016,Orchid Systems,AI Infrastructure,Growth,Bay Area,1000+,Series B,$75M-$250M,0.62,3,4
+CO017,VectorBridge,Private Capital,Seed,London,201-500,Growth,$25M-$75M,0.78,0,15
+CO018,Waypoint AI,Dealmaking,Pre IPO,Boston,1000+,Series A,$25M-$75M,0.73,1,10
+CO019,SageCompute,Private Markets,Public subsidiary,Boston,201-500,Series C,<$25M,0.62,2,15
+CO020,Fathom Legal AI,Dealmaking,Series B,New York,1000+,Bootstrapped,<$25M,0.87,0,14
+CO021,Copperline Fintech,Private Markets,Pre IPO,New York,501-1000,Growth,$25M-$75M,0.68,4,8
+CO022,Kite Commerce,Cybersecurity,Public subsidiary,Singapore,51-200,Strategic backed,$75M-$250M,0.74,5,12
+CO023,Helio Semis,Enterprise AI,Growth,Boston,501-1000,Bootstrapped,$25M-$75M,0.67,2,2
+CO024,Nimbus Agents,Semiconductors,Growth,Boston,51-200,Bootstrapped,<$25M,0.86,0,5
+CO025,Stride Cloud,Cloud Platforms,Public subsidiary,Singapore,201-500,Bootstrapped,>$1B,0.67,5,9
+CO026,Forma Cyber,Cybersecurity,Growth,London,1000+,Growth,$250M-$1B,0.67,3,14
+CO027,ScaleMint,Fintech,Series B,Bay Area,501-1000,Series B,$250M-$1B,0.74,5,2
+CO028,PacketFoundry,Cloud Platforms,Series A,London,201-500,Bootstrapped,$25M-$75M,0.65,4,9
+CO029,DriftWorks,Creator Economy,Growth,Austin,501-1000,Series A,<$25M,0.75,4,3
+CO030,Beacon Infra,AI Infrastructure,Growth,Boston,1-50,Bootstrapped,$25M-$75M,0.64,3,9
+CO031,TerraModel,Cybersecurity,Pre IPO,Bay Area,51-200,Series C,<$25M,0.96,2,14
+CO032,Pioneer GPU,Private Capital,Series B,London,1000+,Strategic backed,$250M-$1B,0.64,2,5
+CO033,Mosaic Workflows,AI Infrastructure,Growth,Boston,1-50,Strategic backed,$75M-$250M,0.6,4,9
+CO034,ArcLight Data,Private Markets,Public subsidiary,Boston,51-200,Bootstrapped,>$1B,0.61,1,3
+CO035,Tandem BioAI,Semiconductors,Series A,Singapore,51-200,Series C,<$25M,0.95,4,5
+CO036,Vellum Apps,Semiconductors,Growth,Boston,1-50,Series C,>$1B,0.8,2,6

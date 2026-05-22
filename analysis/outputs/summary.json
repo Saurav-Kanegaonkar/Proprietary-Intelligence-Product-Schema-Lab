@@ -1,0 +1,15 @@
+{
+  "feeds": 12,
+  "source_documents": 128,
+  "companies": 36,
+  "extracted_signals": 293,
+  "taxonomy_terms": 144,
+  "survey_records": 24,
+  "quality_checks": 118,
+  "launch_pilot_feeds": 1,
+  "clean_package_feeds": 10,
+  "top_feed": "Creator Economy Company Index",
+  "top_score": 82.7,
+  "avg_readiness_score": 77.2,
+  "open_high_risk_qa": 31
+}

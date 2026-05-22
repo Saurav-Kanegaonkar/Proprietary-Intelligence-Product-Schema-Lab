@@ -1,0 +1,13 @@
+feed_id,feed_name,target_product,required_fields,field_coverage_pct,taxonomy_terms,approved_terms,definition_gaps,schema_owner,governance_lane
+FEED001,Enterprise AI Company Profiles,company_profile,8,81.0,12,8,4,Data product,repair
+FEED002,AI Infrastructure Deal Timeline,deal_timeline,8,82.0,12,7,5,Editorial liaison,repair
+FEED003,Executive Move Watchlist,executive_move,8,84.0,12,9,3,Editorial liaison,repair
+FEED004,Private Market Funding Tracker,funding_tracker,8,85.0,12,9,3,Editorial liaison,repair
+FEED005,Cloud Vendor Sentiment Benchmark,sentiment_benchmark,8,83.0,12,8,4,Data product,repair
+FEED006,Cybersecurity Buyer Intent Feed,buyer_signal,8,70.0,12,8,4,Research operations,repair
+FEED007,Semiconductor Supply Chain Profiles,company_profile,8,77.0,12,10,2,Editorial liaison,repair
+FEED008,Fintech Partnership Timeline,deal_timeline,8,71.0,12,10,2,Editorial liaison,repair
+FEED009,Creator Economy Company Index,company_profile,8,80.0,12,8,4,Research operations,repair
+FEED010,Private Capital Survey Benchmarks,survey_benchmark,8,78.0,12,7,5,Research operations,repair
+FEED011,M&A Advisory Signal Feed,buyer_signal,8,78.0,12,8,4,Editorial liaison,repair
+FEED012,Data Center Capacity Tracker,funding_tracker,8,69.0,12,8,4,Research operations,repair

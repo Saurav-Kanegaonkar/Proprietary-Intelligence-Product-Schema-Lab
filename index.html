@@ -6,49 +6,127 @@
   <title>Proprietary Intelligence Product Schema Lab</title>
   <link rel="stylesheet" href="src/styles.css">
 </head>
-<body style="--accent:#a16207;--bg:#fff7ed">
-  <main class="shell">
-    <header class="hero">
+<body>
+  <main class="app-shell">
+    <header class="topbar">
       <div>
-        <p class="eyebrow">Decision Brief / proprietary intelligence product data structuring</p>
+        <p class="eyebrow">Enterprise intelligence data product</p>
         <h1>Proprietary Intelligence Product Schema Lab</h1>
+        <p class="lede">A workbench for deciding which editorial, survey, and private-market signals are ready to become recurring enterprise data feeds.</p>
       </div>
-      <aside>
-        <b>Purpose</b>
-        <span>Turn messy intelligence record-level signals into a ranked operating artifact with recommendations a stakeholder can act on.</span>
+      <aside class="review-card">
+        <span>Top launch candidate</span>
+        <strong data-field="topFeed">Loading</strong>
+        <em><span data-field="topScore">0</span>/100 readiness score</em>
       </aside>
     </header>
-    <section class="metrics">
-      <article><span>Modeled rows</span><strong>6.0K+</strong><em>source-style</em></article>
-      <article><span>Ranked queue</span><strong>25</strong><em>intelligence records</em></article>
-      <article><span>Action pool</span><strong>220</strong><em>candidates</em></article>
-      <article><span>Review time</span><strong>-6 hrs</strong><em>weekly</em></article>
+
+    <nav class="tabs" aria-label="Artifact surfaces">
+      <button class="active" type="button" data-view="cockpit">Launch Cockpit</button>
+      <button type="button" data-view="extraction">Extraction Queue</button>
+      <button type="button" data-view="schema">Schema Governance</button>
+      <button type="button" data-view="brief">Buyer Brief</button>
+    </nav>
+
+    <section class="surface active" id="cockpit" aria-label="Feed launch cockpit">
+      <div class="metric-grid" id="summaryMetrics"></div>
+      <div class="two-column">
+        <section class="panel wide">
+          <div class="panel-heading">
+            <p class="eyebrow">Recurring feed launch queue</p>
+            <h2>Which intelligence products can be sold first?</h2>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Feed</th>
+                  <th>Buyer</th>
+                  <th>Readiness</th>
+                  <th>Schema</th>
+                  <th>Validation</th>
+                  <th>Lane</th>
+                </tr>
+              </thead>
+              <tbody id="feedRows"></tbody>
+            </table>
+          </div>
+        </section>
+        <section class="panel">
+          <div class="panel-heading">
+            <p class="eyebrow">Model weights</p>
+            <h2>Readiness logic</h2>
+          </div>
+          <div class="weight-list" id="weightList"></div>
+        </section>
+      </div>
     </section>
-    <section class="main-grid">
-      <article class="panel lead">
-        <p class="eyebrow">Decision context</p>
-        <h2>Priority queue</h2>
-        <table>
-          <thead><tr><th>intelligence record</th><th>Signal</th><th>Risk</th><th>Next move</th></tr></thead>
-          <tbody>
-            <tr><td>Segment A</td><td>Forecast risk</td><td>High</td><td>Escalate with source check</td></tr>
-            <tr><td>Segment B</td><td>Recommended action</td><td>Medium</td><td>Test with clear owner</td></tr>
-            <tr><td>Segment C</td><td>Quality gap</td><td>Watch</td><td>Document metric definition</td></tr>
-          </tbody>
-        </table>
-      </article>
-      <article class="panel narrative">
-        <p class="eyebrow">What the analysis says</p>
-        <h2>Recommendations over screenshots</h2>
-        <p>The artifact is built around decisions, not dashboard decoration: each source table feeds a ranked queue, and each queue item resolves into a recommendation.</p>
-        <p>The strongest opportunities appear where performance upside, measurement quality, and operating readiness overlap.</p>
-      </article>
+
+    <section class="surface" id="extraction" aria-label="Extraction and enrichment queue">
+      <div class="surface-header">
+        <p class="eyebrow">Signal operations</p>
+        <h2>Extraction, enrichment, and validation queue</h2>
+      </div>
+      <div class="queue-layout">
+        <section class="panel">
+          <div class="panel-heading">
+            <p class="eyebrow">Highest-priority records</p>
+            <h3>Analyst triage</h3>
+          </div>
+          <div class="record-list" id="signalCards"></div>
+        </section>
+        <section class="panel">
+          <div class="panel-heading">
+            <p class="eyebrow">Validation mix</p>
+            <h3>What needs human judgment?</h3>
+          </div>
+          <div class="status-stack" id="validationStack"></div>
+        </section>
+      </div>
     </section>
-    <section class="recommendations">
-      <article><b>01</b><h3>Validate</h3><p>Confirm source definitions before scaling the insight into recurring reporting.</p></article>
-      <article><b>02</b><h3>Prioritize</h3><p>Move the highest-value intelligence record segment into the next operating review.</p></article>
-      <article><b>03</b><h3>Automate</h3><p>Convert the queue into a stakeholder-ready digest for repeated decisions.</p></article>
+
+    <section class="surface" id="schema" aria-label="Taxonomy and schema governance">
+      <div class="surface-header">
+        <p class="eyebrow">Reusable data layer</p>
+        <h2>Schema, taxonomy, and quality gates</h2>
+      </div>
+      <div class="two-column">
+        <section class="panel wide">
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Feed</th>
+                  <th>Product type</th>
+                  <th>Fields</th>
+                  <th>Coverage</th>
+                  <th>Terms</th>
+                  <th>Lane</th>
+                </tr>
+              </thead>
+              <tbody id="schemaRows"></tbody>
+            </table>
+          </div>
+        </section>
+        <section class="panel">
+          <div class="panel-heading">
+            <p class="eyebrow">Open QA</p>
+            <h3>Launch blockers</h3>
+          </div>
+          <div class="qa-list" id="qaList"></div>
+        </section>
+      </div>
+    </section>
+
+    <section class="surface" id="brief" aria-label="Enterprise buyer brief">
+      <div class="surface-header">
+        <p class="eyebrow">Commercial packaging</p>
+        <h2>Enterprise buyer brief</h2>
+      </div>
+      <div class="brief-grid" id="briefCards"></div>
     </section>
   </main>
+
+  <script type="module" src="src/app.js"></script>
 </body>
 </html>

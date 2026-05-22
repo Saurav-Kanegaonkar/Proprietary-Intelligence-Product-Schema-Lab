@@ -1,0 +1,119 @@
+check_id,feed_id,record_id,check_type,severity,status,resolution_owner,sla_hours
+QA0001,FEED009,SIG0212,source conflict,medium,resolved,Product manager,48
+QA0002,FEED012,SIG0283,stale value,medium,in review,Reporter,48
+QA0003,FEED012,SIG0286,stale value,low,resolved,Data analyst,72
+QA0004,FEED011,SIG0248,missing field,high,in review,Reporter,24
+QA0005,FEED004,SIG0092,stale value,low,resolved,Data analyst,48
+QA0006,FEED009,SIG0190,missing field,high,in review,Product manager,12
+QA0007,FEED012,SIG0287,taxonomy mismatch,medium,in review,Product manager,24
+QA0008,FEED012,SIG0285,source conflict,low,open,Reporter,72
+QA0009,FEED012,SIG0290,taxonomy mismatch,medium,resolved,Product manager,24
+QA0010,FEED006,SIG0130,taxonomy mismatch,high,resolved,Product manager,24
+QA0011,FEED007,SIG0158,missing field,low,resolved,Research editor,12
+QA0012,FEED008,SIG0177,low confidence,low,resolved,Research editor,48
+QA0013,FEED009,SIG0204,stale value,medium,resolved,Product manager,72
+QA0014,FEED004,SIG0071,low confidence,high,open,Reporter,24
+QA0015,FEED003,SIG0061,stale value,critical,in review,Data analyst,48
+QA0016,FEED006,SIG0118,buyer definition gap,medium,resolved,Research editor,12
+QA0017,FEED010,SIG0229,stale value,medium,open,Data analyst,12
+QA0018,FEED004,SIG0083,stale value,medium,in review,Product manager,48
+QA0019,FEED003,SIG0052,source conflict,medium,open,Product manager,24
+QA0020,FEED005,SIG0110,low confidence,high,open,Reporter,72
+QA0021,FEED011,SIG0261,stale value,medium,resolved,Product manager,48
+QA0022,FEED009,SIG0206,source conflict,low,in review,Reporter,24
+QA0023,FEED008,SIG0174,buyer definition gap,low,open,Reporter,72
+QA0024,FEED001,SIG0027,taxonomy mismatch,low,open,Reporter,72
+QA0025,FEED012,SIG0276,taxonomy mismatch,low,in review,Reporter,48
+QA0026,FEED009,SIG0200,source conflict,low,open,Data analyst,72
+QA0027,FEED001,SIG0003,taxonomy mismatch,high,open,Product manager,72
+QA0028,FEED003,SIG0047,missing field,low,in review,Product manager,48
+QA0029,FEED004,SIG0075,low confidence,medium,in review,Product manager,48
+QA0030,FEED010,SIG0242,missing field,critical,in review,Reporter,24
+QA0031,FEED010,SIG0223,source conflict,low,in review,Research editor,72
+QA0032,FEED002,SIG0046,stale value,low,in review,Research editor,24
+QA0033,FEED002,SIG0033,buyer definition gap,low,resolved,Product manager,72
+QA0034,FEED006,SIG0135,low confidence,medium,in review,Data analyst,12
+QA0035,FEED005,SIG0114,taxonomy mismatch,high,open,Product manager,48
+QA0036,FEED012,SIG0288,stale value,medium,open,Research editor,48
+QA0037,FEED002,SIG0041,low confidence,medium,resolved,Research editor,24
+QA0038,FEED001,SIG0020,missing field,high,open,Reporter,48
+QA0039,FEED008,SIG0186,buyer definition gap,low,resolved,Reporter,24
+QA0040,FEED005,SIG0099,missing field,medium,open,Research editor,12
+QA0041,FEED010,SIG0239,stale value,critical,in review,Data analyst,12
+QA0042,FEED005,SIG0103,taxonomy mismatch,high,open,Research editor,48
+QA0043,FEED012,SIG0292,buyer definition gap,high,open,Reporter,24
+QA0044,FEED008,SIG0168,taxonomy mismatch,medium,open,Product manager,48
+QA0045,FEED006,SIG0134,stale value,low,resolved,Product manager,72
+QA0046,FEED004,SIG0074,buyer definition gap,high,in review,Research editor,72
+QA0047,FEED008,SIG0183,buyer definition gap,medium,in review,Product manager,72
+QA0048,FEED007,SIG0153,missing field,medium,in review,Product manager,72
+QA0049,FEED001,SIG0015,source conflict,high,open,Reporter,48
+QA0050,FEED010,SIG0243,low confidence,high,open,Research editor,72
+QA0051,FEED009,SIG0199,stale value,high,resolved,Reporter,12
+QA0052,FEED009,SIG0210,taxonomy mismatch,medium,in review,Research editor,72
+QA0053,FEED002,SIG0045,buyer definition gap,high,resolved,Research editor,72
+QA0054,FEED007,SIG0164,missing field,high,in review,Reporter,48
+QA0055,FEED006,SIG0127,buyer definition gap,high,in review,Product manager,72
+QA0056,FEED005,SIG0113,missing field,high,open,Product manager,12
+QA0057,FEED011,SIG0267,low confidence,medium,in review,Research editor,24
+QA0058,FEED012,SIG0275,taxonomy mismatch,medium,open,Data analyst,24
+QA0059,FEED010,SIG0218,source conflict,low,open,Research editor,12
+QA0060,FEED008,SIG0169,taxonomy mismatch,high,open,Reporter,48
+QA0061,FEED012,SIG0272,stale value,medium,resolved,Research editor,12
+QA0062,FEED006,SIG0133,taxonomy mismatch,medium,open,Research editor,12
+QA0063,FEED012,SIG0291,taxonomy mismatch,medium,open,Product manager,72
+QA0064,FEED003,SIG0050,missing field,low,resolved,Reporter,72
+QA0065,FEED001,SIG0009,stale value,low,open,Data analyst,24
+QA0066,FEED009,SIG0201,missing field,medium,in review,Reporter,72
+QA0067,FEED007,SIG0154,source conflict,medium,resolved,Reporter,12
+QA0068,FEED006,SIG0131,low confidence,medium,in review,Product manager,72
+QA0069,FEED010,SIG0232,taxonomy mismatch,medium,in review,Data analyst,24
+QA0070,FEED008,SIG0179,taxonomy mismatch,low,resolved,Product manager,12
+QA0071,FEED003,SIG0060,source conflict,high,in review,Research editor,24
+QA0072,FEED011,SIG0251,missing field,critical,in review,Research editor,24
+QA0073,FEED002,SIG0044,missing field,medium,open,Research editor,12
+QA0074,FEED008,SIG0173,source conflict,medium,resolved,Data analyst,12
+QA0075,FEED001,SIG0010,taxonomy mismatch,medium,resolved,Data analyst,24
+QA0076,FEED005,SIG0093,source conflict,medium,resolved,Product manager,72
+QA0077,FEED003,SIG0062,missing field,medium,resolved,Product manager,24
+QA0078,FEED011,SIG0250,missing field,high,in review,Research editor,48
+QA0079,FEED001,SIG0001,stale value,medium,open,Reporter,48
+QA0080,FEED011,SIG0257,stale value,medium,open,Reporter,12
+QA0081,FEED001,SIG0023,stale value,medium,open,Product manager,48
+QA0082,FEED012,SIG0280,buyer definition gap,medium,in review,Reporter,12
+QA0083,FEED011,SIG0268,source conflict,medium,resolved,Reporter,48
+QA0084,FEED011,SIG0252,buyer definition gap,medium,resolved,Research editor,24
+QA0085,FEED004,SIG0091,stale value,medium,resolved,Reporter,48
+QA0086,FEED008,SIG0172,buyer definition gap,medium,open,Data analyst,12
+QA0087,FEED005,SIG0102,taxonomy mismatch,critical,open,Data analyst,24
+QA0088,FEED005,SIG0104,taxonomy mismatch,high,open,Research editor,72
+QA0089,FEED007,SIG0151,buyer definition gap,medium,in review,Data analyst,48
+QA0090,FEED010,SIG0236,buyer definition gap,high,open,Reporter,72
+QA0091,FEED010,SIG0225,missing field,low,in review,Data analyst,48
+QA0092,FEED001,SIG0004,stale value,medium,resolved,Data analyst,48
+QA0093,FEED008,SIG0189,buyer definition gap,medium,open,Product manager,12
+QA0094,FEED008,SIG0181,low confidence,low,open,Reporter,72
+QA0095,FEED001,SIG0018,low confidence,high,resolved,Reporter,72
+QA0096,FEED001,SIG0024,buyer definition gap,medium,in review,Research editor,72
+QA0097,FEED006,SIG0141,taxonomy mismatch,low,resolved,Research editor,48
+QA0098,FEED004,SIG0073,low confidence,medium,resolved,Research editor,48
+QA0099,FEED011,SIG0255,low confidence,low,resolved,Product manager,48
+QA0100,FEED007,SIG0144,buyer definition gap,medium,in review,Product manager,24
+QA0101,FEED007,SIG0150,taxonomy mismatch,medium,in review,Product manager,48
+QA0102,FEED004,SIG0090,stale value,low,resolved,Data analyst,12
+QA0103,FEED004,SIG0089,low confidence,low,open,Reporter,48
+QA0104,FEED012,SIG0293,taxonomy mismatch,critical,open,Product manager,12
+QA0105,FEED003,SIG0058,buyer definition gap,low,resolved,Reporter,12
+QA0106,FEED007,SIG0156,source conflict,critical,open,Product manager,48
+QA0107,FEED010,SIG0230,taxonomy mismatch,low,open,Product manager,12
+QA0108,FEED006,SIG0117,low confidence,medium,resolved,Data analyst,48
+QA0109,FEED010,SIG0233,taxonomy mismatch,low,in review,Data analyst,48
+QA0110,FEED007,SIG0148,low confidence,critical,in review,Data analyst,48
+QA0111,FEED001,SIG0002,stale value,medium,in review,Data analyst,24
+QA0112,FEED003,SIG0067,low confidence,medium,resolved,Research editor,12
+QA0113,FEED010,SIG0241,missing field,high,open,Reporter,48
+QA0114,FEED005,SIG0105,taxonomy mismatch,medium,open,Research editor,72
+QA0115,FEED012,SIG0284,low confidence,low,in review,Reporter,72
+QA0116,FEED002,SIG0028,stale value,high,open,Product manager,12
+QA0117,FEED009,SIG0194,buyer definition gap,medium,open,Research editor,48
+QA0118,FEED001,SIG0019,low confidence,high,in review,Reporter,24

@@ -1,0 +1,25 @@
+survey_id,feed_id,audience_segment,sector,question_theme,sample_size,positive_pct,neutral_pct,negative_pct,trend_delta,signal_strength,recurring_feed_fit
+SUR0001,FEED001,C suite,Enterprise AI,IPO appetite,473,44,18,38,-13,0.06,medium
+SUR0002,FEED001,advisors,Enterprise AI,vendor consolidation,539,70,12,18,-2,0.52,high
+SUR0003,FEED001,C suite,Enterprise AI,AI budget outlook,403,71,10,19,5,0.52,watch
+SUR0004,FEED003,operators,Cloud Platforms,security priorities,575,76,15,9,13,0.67,watch
+SUR0005,FEED003,finance leaders,Cloud Platforms,M&A confidence,449,37,25,38,5,0.01,medium
+SUR0006,FEED003,investors,Cloud Platforms,IPO appetite,674,40,34,26,-5,0.14,watch
+SUR0007,FEED005,C suite,Cloud Platforms,IPO appetite,470,60,14,26,16,0.34,medium
+SUR0008,FEED005,C suite,Cloud Platforms,M&A confidence,388,75,8,17,16,0.56,high
+SUR0009,FEED005,investors,Cloud Platforms,AI budget outlook,306,67,13,20,-12,0.36,watch
+SUR0010,FEED006,advisors,Cybersecurity,AI budget outlook,377,71,10,19,-1,0.49,medium
+SUR0011,FEED006,investors,Cybersecurity,M&A confidence,170,53,9,38,-2,0.06,watch
+SUR0012,FEED006,investors,Cybersecurity,vendor consolidation,645,41,28,31,-1,0.1,medium
+SUR0013,FEED008,operators,Fintech,vendor consolidation,222,59,15,26,13,0.18,watch
+SUR0014,FEED008,C suite,Fintech,M&A confidence,405,49,42,9,13,0.4,high
+SUR0015,FEED008,operators,Fintech,IPO appetite,211,63,10,27,-3,0.19,high
+SUR0016,FEED010,operators,Private Capital,vendor consolidation,386,74,15,11,5,0.61,high
+SUR0017,FEED010,finance leaders,Private Capital,AI budget outlook,670,40,40,20,5,0.2,high
+SUR0018,FEED010,operators,Private Capital,security priorities,201,38,28,34,4,0.02,medium
+SUR0019,FEED011,C suite,Dealmaking,IPO appetite,416,71,8,21,7,0.5,medium
+SUR0020,FEED011,operators,Dealmaking,vendor consolidation,312,43,48,9,-11,0.27,watch
+SUR0021,FEED011,advisors,Dealmaking,security priorities,463,73,9,18,8,0.55,high
+SUR0022,FEED012,finance leaders,AI Infrastructure,security priorities,288,39,38,23,-14,0.12,watch
+SUR0023,FEED012,advisors,AI Infrastructure,AI budget outlook,689,75,11,14,9,0.61,high
+SUR0024,FEED012,advisors,AI Infrastructure,M&A confidence,389,67,12,21,10,0.45,medium

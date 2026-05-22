@@ -1,0 +1,129 @@
+doc_id,feed_id,source_type,source_date,sector,reporting_desk,exclusivity_level,buyer_relevance,extraction_complexity,access_tier
+DOC0001,FEED001,public_filing,2026-02-14,Enterprise AI,Finance,public corroboration,87,38,enterprise pilot
+DOC0002,FEED001,reporter_note,2026-03-04,Enterprise AI,Enterprise,exclusive,62,80,enterprise pilot
+DOC0003,FEED001,executive_briefing,2026-01-17,Enterprise AI,AI,derived,94,55,newsroom
+DOC0004,FEED001,executive_briefing,2026-04-27,Enterprise AI,AI,derived,85,58,newsroom
+DOC0005,FEED001,subscriber_survey,2026-03-15,Enterprise AI,Enterprise,exclusive,97,60,enterprise pilot
+DOC0006,FEED001,reported_story,2026-04-27,Enterprise AI,Finance,public corroboration,69,35,enterprise pilot
+DOC0007,FEED001,reporter_note,2026-02-08,Enterprise AI,Enterprise,derived,83,48,enterprise pilot
+DOC0008,FEED001,reporter_note,2026-02-07,Enterprise AI,Consumer Tech,survey only,78,28,newsroom
+DOC0009,FEED001,reporter_note,2026-04-21,Enterprise AI,Enterprise,exclusive,62,64,newsroom
+DOC0010,FEED002,reporter_note,2026-03-31,AI Infrastructure,Semiconductors,public corroboration,63,85,pro
+DOC0011,FEED002,reported_story,2026-02-01,AI Infrastructure,Enterprise,public corroboration,83,57,enterprise pilot
+DOC0012,FEED002,public_filing,2026-02-09,AI Infrastructure,Consumer Tech,exclusive,95,46,newsroom
+DOC0013,FEED002,reported_story,2026-02-26,AI Infrastructure,Semiconductors,derived,92,84,pro
+DOC0014,FEED002,funding_database,2026-01-16,AI Infrastructure,Enterprise,derived,87,53,pro
+DOC0015,FEED002,public_filing,2026-02-21,AI Infrastructure,Semiconductors,public corroboration,89,64,pro
+DOC0016,FEED002,public_filing,2026-02-08,AI Infrastructure,Enterprise,public corroboration,76,37,enterprise pilot
+DOC0017,FEED002,reported_story,2026-01-20,AI Infrastructure,Consumer Tech,derived,74,49,enterprise pilot
+DOC0018,FEED002,subscriber_survey,2026-04-07,AI Infrastructure,Consumer Tech,public corroboration,68,46,pro
+DOC0019,FEED002,reported_story,2026-01-27,AI Infrastructure,Enterprise,exclusive,96,38,pro
+DOC0020,FEED002,reported_story,2026-01-11,AI Infrastructure,Consumer Tech,public corroboration,70,84,newsroom
+DOC0021,FEED003,executive_briefing,2026-02-17,Cloud Platforms,Consumer Tech,survey only,67,64,enterprise pilot
+DOC0022,FEED003,funding_database,2026-02-22,Cloud Platforms,Enterprise,survey only,96,26,enterprise pilot
+DOC0023,FEED003,reported_story,2026-03-26,Cloud Platforms,Enterprise,derived,67,77,newsroom
+DOC0024,FEED003,public_filing,2026-04-05,Cloud Platforms,AI,survey only,72,60,newsroom
+DOC0025,FEED003,reported_story,2026-04-16,Cloud Platforms,AI,public corroboration,84,69,pro
+DOC0026,FEED003,reported_story,2026-03-13,Cloud Platforms,Semiconductors,derived,72,44,newsroom
+DOC0027,FEED003,reporter_note,2026-02-22,Cloud Platforms,Consumer Tech,derived,93,40,newsroom
+DOC0028,FEED003,subscriber_survey,2026-02-06,Cloud Platforms,Semiconductors,public corroboration,62,81,pro
+DOC0029,FEED003,public_filing,2026-01-25,Cloud Platforms,AI,survey only,84,60,enterprise pilot
+DOC0030,FEED003,executive_briefing,2026-04-03,Cloud Platforms,Enterprise,survey only,81,47,pro
+DOC0031,FEED003,funding_database,2026-01-18,Cloud Platforms,Finance,survey only,98,67,enterprise pilot
+DOC0032,FEED003,reported_story,2026-04-04,Cloud Platforms,Enterprise,exclusive,87,57,newsroom
+DOC0033,FEED003,reporter_note,2026-04-02,Cloud Platforms,AI,survey only,80,51,enterprise pilot
+DOC0034,FEED003,funding_database,2026-02-02,Cloud Platforms,Finance,public corroboration,70,34,enterprise pilot
+DOC0035,FEED004,executive_briefing,2026-03-22,Private Markets,AI,exclusive,71,42,enterprise pilot
+DOC0036,FEED004,reported_story,2026-01-15,Private Markets,Enterprise,survey only,89,84,enterprise pilot
+DOC0037,FEED004,subscriber_survey,2026-02-08,Private Markets,Finance,exclusive,84,77,newsroom
+DOC0038,FEED004,reported_story,2026-04-01,Private Markets,Consumer Tech,survey only,95,61,newsroom
+DOC0039,FEED004,reported_story,2026-03-22,Private Markets,AI,exclusive,75,60,newsroom
+DOC0040,FEED004,public_filing,2026-04-12,Private Markets,Enterprise,public corroboration,82,37,newsroom
+DOC0041,FEED004,subscriber_survey,2026-03-01,Private Markets,Finance,derived,86,51,enterprise pilot
+DOC0042,FEED004,reporter_note,2026-03-31,Private Markets,Enterprise,exclusive,87,27,pro
+DOC0043,FEED004,reported_story,2026-01-14,Private Markets,Enterprise,survey only,98,73,enterprise pilot
+DOC0044,FEED004,reporter_note,2026-02-11,Private Markets,AI,survey only,63,63,newsroom
+DOC0045,FEED004,funding_database,2026-03-25,Private Markets,Semiconductors,public corroboration,67,77,newsroom
+DOC0046,FEED004,reported_story,2026-03-21,Private Markets,Semiconductors,exclusive,87,61,enterprise pilot
+DOC0047,FEED004,subscriber_survey,2026-02-16,Private Markets,Finance,exclusive,94,36,enterprise pilot
+DOC0048,FEED004,reporter_note,2026-04-30,Private Markets,Enterprise,public corroboration,71,52,newsroom
+DOC0049,FEED005,reported_story,2026-04-25,Cloud Platforms,AI,public corroboration,79,37,pro
+DOC0050,FEED005,subscriber_survey,2026-02-25,Cloud Platforms,Semiconductors,survey only,83,45,pro
+DOC0051,FEED005,public_filing,2026-02-21,Cloud Platforms,Consumer Tech,public corroboration,67,76,newsroom
+DOC0052,FEED005,subscriber_survey,2026-04-20,Cloud Platforms,Finance,public corroboration,82,35,newsroom
+DOC0053,FEED005,subscriber_survey,2026-02-11,Cloud Platforms,Enterprise,survey only,89,43,enterprise pilot
+DOC0054,FEED005,subscriber_survey,2026-03-03,Cloud Platforms,AI,public corroboration,89,57,enterprise pilot
+DOC0055,FEED005,executive_briefing,2026-01-12,Cloud Platforms,AI,survey only,85,87,enterprise pilot
+DOC0056,FEED005,public_filing,2026-01-08,Cloud Platforms,Finance,survey only,64,38,newsroom
+DOC0057,FEED005,reported_story,2026-03-28,Cloud Platforms,Enterprise,public corroboration,86,26,enterprise pilot
+DOC0058,FEED006,public_filing,2026-04-05,Cybersecurity,Finance,survey only,82,83,pro
+DOC0059,FEED006,reporter_note,2026-04-16,Cybersecurity,Enterprise,public corroboration,69,70,pro
+DOC0060,FEED006,funding_database,2026-04-13,Cybersecurity,Finance,public corroboration,64,58,enterprise pilot
+DOC0061,FEED006,reported_story,2026-03-02,Cybersecurity,Enterprise,survey only,75,47,enterprise pilot
+DOC0062,FEED006,reported_story,2026-03-17,Cybersecurity,Enterprise,derived,68,52,newsroom
+DOC0063,FEED006,reported_story,2026-04-30,Cybersecurity,Consumer Tech,derived,76,28,newsroom
+DOC0064,FEED006,subscriber_survey,2026-04-06,Cybersecurity,Semiconductors,exclusive,70,22,enterprise pilot
+DOC0065,FEED006,executive_briefing,2026-01-25,Cybersecurity,Semiconductors,survey only,92,47,pro
+DOC0066,FEED006,subscriber_survey,2026-03-28,Cybersecurity,AI,exclusive,98,51,enterprise pilot
+DOC0067,FEED006,public_filing,2026-04-23,Cybersecurity,AI,derived,88,44,newsroom
+DOC0068,FEED007,subscriber_survey,2026-04-12,Semiconductors,Semiconductors,survey only,91,43,enterprise pilot
+DOC0069,FEED007,funding_database,2026-01-26,Semiconductors,Finance,survey only,73,29,enterprise pilot
+DOC0070,FEED007,reported_story,2026-04-23,Semiconductors,AI,exclusive,62,74,newsroom
+DOC0071,FEED007,funding_database,2026-02-03,Semiconductors,AI,derived,62,49,enterprise pilot
+DOC0072,FEED007,subscriber_survey,2026-01-12,Semiconductors,Consumer Tech,survey only,93,24,newsroom
+DOC0073,FEED007,reporter_note,2026-02-26,Semiconductors,AI,exclusive,95,57,enterprise pilot
+DOC0074,FEED007,executive_briefing,2026-01-07,Semiconductors,Consumer Tech,survey only,73,35,newsroom
+DOC0075,FEED007,reporter_note,2026-02-04,Semiconductors,Finance,public corroboration,84,56,pro
+DOC0076,FEED007,reported_story,2026-02-25,Semiconductors,Semiconductors,derived,76,60,enterprise pilot
+DOC0077,FEED007,funding_database,2026-01-15,Semiconductors,AI,exclusive,87,70,pro
+DOC0078,FEED007,reporter_note,2026-01-12,Semiconductors,AI,derived,67,85,pro
+DOC0079,FEED007,reporter_note,2026-02-16,Semiconductors,Consumer Tech,exclusive,95,27,newsroom
+DOC0080,FEED007,reported_story,2026-04-26,Semiconductors,Consumer Tech,survey only,79,27,newsroom
+DOC0081,FEED008,reporter_note,2026-03-01,Fintech,Semiconductors,exclusive,74,79,enterprise pilot
+DOC0082,FEED008,subscriber_survey,2026-01-05,Fintech,Finance,derived,79,30,enterprise pilot
+DOC0083,FEED008,reported_story,2026-04-26,Fintech,Consumer Tech,derived,85,63,newsroom
+DOC0084,FEED008,subscriber_survey,2026-02-07,Fintech,Semiconductors,public corroboration,86,72,enterprise pilot
+DOC0085,FEED008,reported_story,2026-02-19,Fintech,Semiconductors,derived,81,32,enterprise pilot
+DOC0086,FEED008,reported_story,2026-01-20,Fintech,Finance,public corroboration,69,45,pro
+DOC0087,FEED008,public_filing,2026-03-11,Fintech,Semiconductors,survey only,70,71,pro
+DOC0088,FEED008,reported_story,2026-03-27,Fintech,Consumer Tech,derived,97,43,pro
+DOC0089,FEED008,reported_story,2026-01-28,Fintech,Enterprise,survey only,65,67,newsroom
+DOC0090,FEED009,reported_story,2026-04-24,Creator Economy,AI,derived,64,82,pro
+DOC0091,FEED009,subscriber_survey,2026-01-24,Creator Economy,Finance,exclusive,97,75,newsroom
+DOC0092,FEED009,subscriber_survey,2026-02-27,Creator Economy,Enterprise,public corroboration,66,69,newsroom
+DOC0093,FEED009,reporter_note,2026-04-30,Creator Economy,AI,derived,76,88,newsroom
+DOC0094,FEED009,executive_briefing,2026-01-13,Creator Economy,Semiconductors,public corroboration,81,63,newsroom
+DOC0095,FEED009,reporter_note,2026-01-06,Creator Economy,Enterprise,derived,80,60,enterprise pilot
+DOC0096,FEED009,reporter_note,2026-03-05,Creator Economy,Enterprise,survey only,74,53,newsroom
+DOC0097,FEED009,reported_story,2026-02-26,Creator Economy,AI,derived,96,66,enterprise pilot
+DOC0098,FEED009,funding_database,2026-04-27,Creator Economy,AI,public corroboration,62,70,enterprise pilot
+DOC0099,FEED009,public_filing,2026-01-18,Creator Economy,Finance,derived,88,84,newsroom
+DOC0100,FEED009,executive_briefing,2026-01-23,Creator Economy,Enterprise,exclusive,64,51,enterprise pilot
+DOC0101,FEED009,subscriber_survey,2026-04-29,Creator Economy,Enterprise,survey only,67,34,enterprise pilot
+DOC0102,FEED010,reported_story,2026-01-26,Private Capital,Semiconductors,derived,66,33,pro
+DOC0103,FEED010,reporter_note,2026-03-24,Private Capital,Semiconductors,exclusive,89,43,enterprise pilot
+DOC0104,FEED010,funding_database,2026-01-25,Private Capital,AI,exclusive,83,48,newsroom
+DOC0105,FEED010,subscriber_survey,2026-03-16,Private Capital,Consumer Tech,public corroboration,80,60,newsroom
+DOC0106,FEED010,reported_story,2026-02-24,Private Capital,Consumer Tech,survey only,71,28,pro
+DOC0107,FEED010,reported_story,2026-01-16,Private Capital,Enterprise,survey only,74,34,newsroom
+DOC0108,FEED010,reported_story,2026-03-27,Private Capital,Enterprise,exclusive,92,36,pro
+DOC0109,FEED010,funding_database,2026-03-06,Private Capital,Semiconductors,public corroboration,67,71,newsroom
+DOC0110,FEED011,reported_story,2026-02-06,Dealmaking,Semiconductors,derived,75,23,pro
+DOC0111,FEED011,subscriber_survey,2026-01-17,Dealmaking,Consumer Tech,public corroboration,70,75,newsroom
+DOC0112,FEED011,reporter_note,2026-03-25,Dealmaking,AI,public corroboration,69,35,pro
+DOC0113,FEED011,reported_story,2026-01-30,Dealmaking,Enterprise,derived,84,74,pro
+DOC0114,FEED011,reported_story,2026-03-16,Dealmaking,Semiconductors,derived,92,64,newsroom
+DOC0115,FEED011,reported_story,2026-03-31,Dealmaking,AI,exclusive,98,85,newsroom
+DOC0116,FEED011,executive_briefing,2026-04-14,Dealmaking,Consumer Tech,exclusive,68,54,enterprise pilot
+DOC0117,FEED011,reported_story,2026-02-11,Dealmaking,Enterprise,survey only,65,34,newsroom
+DOC0118,FEED011,funding_database,2026-04-24,Dealmaking,Enterprise,public corroboration,82,76,enterprise pilot
+DOC0119,FEED011,reported_story,2026-04-23,Dealmaking,AI,exclusive,70,43,pro
+DOC0120,FEED011,subscriber_survey,2026-03-02,Dealmaking,Consumer Tech,public corroboration,67,69,pro
+DOC0121,FEED012,executive_briefing,2026-04-20,AI Infrastructure,Enterprise,survey only,93,27,pro
+DOC0122,FEED012,funding_database,2026-01-29,AI Infrastructure,Enterprise,exclusive,68,43,enterprise pilot
+DOC0123,FEED012,reporter_note,2026-03-26,AI Infrastructure,AI,derived,75,76,newsroom
+DOC0124,FEED012,reported_story,2026-04-21,AI Infrastructure,Semiconductors,exclusive,71,25,pro
+DOC0125,FEED012,public_filing,2026-01-09,AI Infrastructure,AI,exclusive,65,44,pro
+DOC0126,FEED012,reporter_note,2026-03-19,AI Infrastructure,Finance,public corroboration,88,71,pro
+DOC0127,FEED012,reporter_note,2026-03-01,AI Infrastructure,Enterprise,exclusive,86,37,enterprise pilot
+DOC0128,FEED012,reported_story,2026-04-07,AI Infrastructure,Consumer Tech,exclusive,64,31,pro

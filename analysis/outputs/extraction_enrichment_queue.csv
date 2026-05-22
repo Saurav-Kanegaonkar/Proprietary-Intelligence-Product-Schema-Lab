@@ -1,0 +1,294 @@
+signal_id,feed_id,feed_name,company_name,sector,signal_type,buyer_use_case,validation_status,schema_fields_filled,schema_fields_required,extraction_confidence_pct,commercial_value_score,triage_priority,next_action
+SIG0229,FEED010,Private Capital Survey Benchmarks,LumenPay,Semiconductors,capacity_expansion,advisory,conflict found,5,8,54.0,91,137.1,hold for editorial context
+SIG0259,FEED011,M&A Advisory Signal Feed,ScaleMint,Fintech,vendor_spend,advisory,conflict found,6,8,66.0,96,135.5,needs second source
+SIG0176,FEED008,Fintech Partnership Timeline,Apex Data Centers,Private Markets,funding_event,corp dev,needs reporter review,5,8,66.0,96,129.5,ready for profile enrichment
+SIG0282,FEED012,Data Center Capacity Tracker,PacketFoundry,Cloud Platforms,capacity_expansion,enterprise,conflict found,6,8,79.0,90,126.6,map to controlled taxonomy
+SIG0128,FEED006,Cybersecurity Buyer Intent Feed,Cobalt Ledger,AI Infrastructure,go_to_market_shift,enterprise,needs reporter review,6,8,80.0,99,125.4,candidate for recurring feed
+SIG0036,FEED002,AI Infrastructure Deal Timeline,ArcLight Data,Private Markets,vendor_spend,investor,conflict found,5,8,78.0,84,124.8,map to controlled taxonomy
+SIG0012,FEED001,Enterprise AI Company Profiles,ArcLight Data,Private Markets,executive_move,corp dev,needs reporter review,6,8,86.0,99,124.1,hold for editorial context
+SIG0015,FEED001,Enterprise AI Company Profiles,ArcLight Data,Private Markets,market_sentiment,corp dev,needs public corroboration,5,8,73.0,96,123.9,hold for editorial context
+SIG0023,FEED001,Enterprise AI Company Profiles,VectorBridge,Private Capital,capacity_expansion,corp dev,needs reporter review,6,8,64.0,94,123.9,hold for editorial context
+SIG0222,FEED010,Private Capital Survey Benchmarks,Beacon Infra,AI Infrastructure,customer_adoption,advisory,needs reporter review,5,8,74.0,91,122.7,candidate for recurring feed
+SIG0021,FEED001,Enterprise AI Company Profiles,PacketFoundry,Cloud Platforms,go_to_market_shift,corp dev,needs reporter review,5,8,84.0,92,121.5,ready for profile enrichment
+SIG0278,FEED012,Data Center Capacity Tracker,Tandem BioAI,Semiconductors,executive_move,enterprise,needs reporter review,5,8,86.0,92,121.1,hold for editorial context
+SIG0158,FEED007,Semiconductor Supply Chain Profiles,FoundryStack,Private Markets,capacity_expansion,advisory,needs public corroboration,6,8,67.0,93,118.3,ready for profile enrichment
+SIG0135,FEED006,Cybersecurity Buyer Intent Feed,Mosaic Workflows,AI Infrastructure,market_sentiment,enterprise,validated,5,8,63.0,98,118.1,hold for editorial context
+SIG0272,FEED012,Data Center Capacity Tracker,Nexus Cloud,Private Markets,valuation_marker,enterprise,validated,5,8,59.0,97,118.0,ready for profile enrichment
+SIG0251,FEED011,M&A Advisory Signal Feed,Helio Semis,Enterprise AI,executive_move,advisory,needs public corroboration,5,8,72.0,89,117.2,ready for profile enrichment
+SIG0267,FEED011,M&A Advisory Signal Feed,ScaleMint,Fintech,vendor_spend,advisory,needs public corroboration,6,8,78.0,94,116.8,ready for profile enrichment
+SIG0076,FEED004,Private Market Funding Tracker,BrightLayer AI,Cloud Platforms,product_launch,investor,conflict found,8,8,97.0,92,116.7,needs second source
+SIG0209,FEED009,Creator Economy Company Index,Meridian Chips,Cybersecurity,partnership,investor,conflict found,8,8,83.0,88,115.7,hold for editorial context
+SIG0145,FEED007,Semiconductor Supply Chain Profiles,ArcLight Data,Private Markets,vendor_spend,advisory,conflict found,5,8,66.0,72,115.5,candidate for recurring feed
+SIG0017,FEED001,Enterprise AI Company Profiles,BrightLayer AI,Cloud Platforms,valuation_marker,corp dev,needs public corroboration,8,8,70.0,98,114.6,candidate for recurring feed
+SIG0051,FEED003,Executive Move Watchlist,Prism Security,AI Infrastructure,market_sentiment,consulting,needs reporter review,7,8,79.0,92,114.6,ready for profile enrichment
+SIG0066,FEED003,Executive Move Watchlist,Mosaic Workflows,AI Infrastructure,partnership,consulting,validated,5,8,75.0,97,114.5,needs second source
+SIG0102,FEED005,Cloud Vendor Sentiment Benchmark,Tandem BioAI,Semiconductors,valuation_marker,enterprise,needs public corroboration,5,8,75.0,87,114.5,hold for editorial context
+SIG0244,FEED011,M&A Advisory Signal Feed,Tandem BioAI,Semiconductors,product_launch,advisory,validated,5,8,84.0,99,114.5,hold for editorial context
+SIG0024,FEED001,Enterprise AI Company Profiles,Cobalt Ledger,AI Infrastructure,executive_move,corp dev,needs public corroboration,5,8,89.0,90,114.4,map to controlled taxonomy
+SIG0079,FEED004,Private Market Funding Tracker,FoundryStack,Private Markets,partnership,investor,needs public corroboration,5,8,72.0,86,114.2,map to controlled taxonomy
+SIG0034,FEED002,AI Infrastructure Deal Timeline,TerraModel,Cybersecurity,capacity_expansion,investor,needs reporter review,7,8,54.0,86,114.1,needs second source
+SIG0048,FEED003,Executive Move Watchlist,Pioneer GPU,Private Capital,product_launch,consulting,needs reporter review,5,8,70.0,81,113.6,candidate for recurring feed
+SIG0011,FEED001,Enterprise AI Company Profiles,VectorBridge,Private Capital,capacity_expansion,corp dev,needs reporter review,7,8,75.0,90,113.5,map to controlled taxonomy
+SIG0077,FEED004,Private Market Funding Tracker,Stride Cloud,Cloud Platforms,market_sentiment,investor,validated,5,8,71.0,95,113.4,ready for profile enrichment
+SIG0205,FEED009,Creator Economy Company Index,SignalForge,AI Infrastructure,product_launch,investor,conflict found,7,8,71.0,79,113.4,ready for profile enrichment
+SIG0103,FEED005,Cloud Vendor Sentiment Benchmark,Tandem BioAI,Semiconductors,funding_event,enterprise,needs public corroboration,5,8,68.0,84,113.0,hold for editorial context
+SIG0161,FEED007,Semiconductor Supply Chain Profiles,ArcLight Data,Private Markets,executive_move,advisory,needs reporter review,5,8,96.0,86,112.9,needs second source
+SIG0065,FEED003,Executive Move Watchlist,Harbor Robotics,Private Capital,market_sentiment,consulting,needs public corroboration,6,8,74.0,89,112.7,candidate for recurring feed
+SIG0194,FEED009,Creator Economy Company Index,Pioneer GPU,Private Capital,executive_move,investor,needs public corroboration,6,8,47.0,83,112.7,map to controlled taxonomy
+SIG0074,FEED004,Private Market Funding Tracker,VectorBridge,Private Capital,executive_move,investor,needs reporter review,7,8,77.0,89,112.1,hold for editorial context
+SIG0101,FEED005,Cloud Vendor Sentiment Benchmark,SageCompute,Private Markets,executive_move,enterprise,conflict found,7,8,86.0,81,112.1,hold for editorial context
+SIG0166,FEED008,Fintech Partnership Timeline,Helio Semis,Enterprise AI,go_to_market_shift,corp dev,needs reporter review,5,8,69.0,79,111.8,hold for editorial context
+SIG0203,FEED009,Creator Economy Company Index,SignalForge,AI Infrastructure,customer_adoption,investor,validated,5,8,92.0,98,111.8,needs second source
+SIG0062,FEED003,Executive Move Watchlist,Apex Data Centers,Private Markets,capacity_expansion,consulting,needs reporter review,7,8,83.0,90,111.7,ready for profile enrichment
+SIG0182,FEED008,Fintech Partnership Timeline,TerraModel,Cybersecurity,capacity_expansion,corp dev,needs public corroboration,6,8,72.0,87,111.2,map to controlled taxonomy
+SIG0174,FEED008,Fintech Partnership Timeline,Orchid Systems,AI Infrastructure,executive_move,corp dev,needs public corroboration,7,8,77.0,92,111.1,candidate for recurring feed
+SIG0199,FEED009,Creator Economy Company Index,PacketFoundry,Cloud Platforms,executive_move,investor,needs reporter review,5,8,70.0,78,110.6,map to controlled taxonomy
+SIG0235,FEED010,Private Capital Survey Benchmarks,LumenPay,Semiconductors,partnership,advisory,needs public corroboration,6,8,62.0,84,110.4,hold for editorial context
+SIG0189,FEED008,Fintech Partnership Timeline,Kite Commerce,Cybersecurity,vendor_spend,corp dev,needs public corroboration,6,8,77.0,87,110.1,ready for profile enrichment
+SIG0138,FEED006,Cybersecurity Buyer Intent Feed,Forma Cyber,Cybersecurity,market_sentiment,enterprise,needs public corroboration,6,8,68.0,85,110.0,ready for profile enrichment
+SIG0068,FEED004,Private Market Funding Tracker,Copperline Fintech,Private Markets,partnership,investor,needs public corroboration,7,8,65.0,88,109.7,ready for profile enrichment
+SIG0075,FEED004,Private Market Funding Tracker,Stride Cloud,Cloud Platforms,partnership,investor,needs public corroboration,6,8,74.0,86,109.7,map to controlled taxonomy
+SIG0156,FEED007,Semiconductor Supply Chain Profiles,Cobalt Ledger,AI Infrastructure,capacity_expansion,advisory,conflict found,7,8,56.0,72,109.7,needs second source
+SIG0255,FEED011,M&A Advisory Signal Feed,Tandem BioAI,Semiconductors,vendor_spend,advisory,needs reporter review,5,8,56.0,74,109.7,map to controlled taxonomy
+SIG0291,FEED012,Data Center Capacity Tracker,LumenPay,Semiconductors,go_to_market_shift,enterprise,needs public corroboration,6,8,89.0,89,109.4,needs second source
+SIG0089,FEED004,Private Market Funding Tracker,FoundryStack,Private Markets,executive_move,investor,needs reporter review,5,8,90.0,81,109.2,hold for editorial context
+SIG0227,FEED010,Private Capital Survey Benchmarks,Beacon Infra,AI Infrastructure,partnership,advisory,needs reporter review,7,8,72.0,85,109.2,ready for profile enrichment
+SIG0271,FEED012,Data Center Capacity Tracker,Atlas Vector,Cloud Platforms,product_launch,enterprise,validated,6,8,77.0,96,109.1,hold for editorial context
+SIG0104,FEED005,Cloud Vendor Sentiment Benchmark,Vellum Apps,Semiconductors,capacity_expansion,enterprise,needs reporter review,5,8,62.0,74,108.4,needs second source
+SIG0163,FEED007,Semiconductor Supply Chain Profiles,Tandem BioAI,Semiconductors,capacity_expansion,advisory,needs public corroboration,6,8,77.0,85,108.1,candidate for recurring feed
+SIG0118,FEED006,Cybersecurity Buyer Intent Feed,Beacon Infra,AI Infrastructure,vendor_spend,enterprise,validated,7,8,74.0,98,107.7,map to controlled taxonomy
+SIG0258,FEED011,M&A Advisory Signal Feed,FoundryStack,Private Markets,go_to_market_shift,advisory,needs reporter review,6,8,65.0,78,107.7,ready for profile enrichment
+SIG0248,FEED011,M&A Advisory Signal Feed,FoundryStack,Private Markets,funding_event,advisory,validated,5,8,76.0,90,107.3,hold for editorial context
+SIG0084,FEED004,Private Market Funding Tracker,FoundryStack,Private Markets,vendor_spend,investor,needs public corroboration,5,8,81.0,81,107.2,needs second source
+SIG0007,FEED001,Enterprise AI Company Profiles,SignalForge,AI Infrastructure,market_sentiment,corp dev,needs public corroboration,5,8,77.0,80,107.1,map to controlled taxonomy
+SIG0281,FEED012,Data Center Capacity Tracker,Beacon Infra,AI Infrastructure,valuation_marker,enterprise,validated,6,8,77.0,94,107.1,map to controlled taxonomy
+SIG0018,FEED001,Enterprise AI Company Profiles,Atlas Vector,Cloud Platforms,valuation_marker,corp dev,needs reporter review,7,8,96.0,88,106.9,needs second source
+SIG0286,FEED012,Data Center Capacity Tracker,Stride Cloud,Cloud Platforms,valuation_marker,enterprise,needs public corroboration,5,8,69.0,78,106.8,candidate for recurring feed
+SIG0123,FEED006,Cybersecurity Buyer Intent Feed,SageCompute,Private Markets,market_sentiment,enterprise,validated,7,8,79.0,98,106.6,candidate for recurring feed
+SIG0200,FEED009,Creator Economy Company Index,PacketFoundry,Cloud Platforms,valuation_marker,investor,needs public corroboration,6,8,67.0,81,106.3,candidate for recurring feed
+SIG0099,FEED005,Cloud Vendor Sentiment Benchmark,Tandem BioAI,Semiconductors,product_launch,enterprise,needs public corroboration,7,8,95.0,91,106.1,hold for editorial context
+SIG0090,FEED004,Private Market Funding Tracker,VectorBridge,Private Capital,product_launch,investor,needs public corroboration,6,8,82.0,84,106.0,ready for profile enrichment
+SIG0178,FEED008,Fintech Partnership Timeline,Pioneer GPU,Private Capital,funding_event,corp dev,validated,6,8,78.0,93,105.8,map to controlled taxonomy
+SIG0130,FEED006,Cybersecurity Buyer Intent Feed,LumenPay,Semiconductors,partnership,enterprise,needs public corroboration,8,8,93.0,94,105.5,candidate for recurring feed
+SIG0160,FEED007,Semiconductor Supply Chain Profiles,SageCompute,Private Markets,valuation_marker,advisory,conflict found,8,8,86.0,78,105.1,hold for editorial context
+SIG0026,FEED001,Enterprise AI Company Profiles,ArcLight Data,Private Markets,partnership,corp dev,validated,5,8,82.0,89,105.0,ready for profile enrichment
+SIG0273,FEED012,Data Center Capacity Tracker,Kite Commerce,Cybersecurity,partnership,enterprise,needs reporter review,7,8,83.0,83,104.7,ready for profile enrichment
+SIG0243,FEED010,Private Capital Survey Benchmarks,LumenPay,Semiconductors,partnership,advisory,validated,6,8,66.0,89,104.5,hold for editorial context
+SIG0167,FEED008,Fintech Partnership Timeline,TerraModel,Cybersecurity,market_sentiment,corp dev,needs public corroboration,6,8,80.0,82,104.4,needs second source
+SIG0046,FEED002,AI Infrastructure Deal Timeline,DriftWorks,Creator Economy,product_launch,investor,needs reporter review,8,8,77.0,85,104.1,candidate for recurring feed
+SIG0069,FEED004,Private Market Funding Tracker,Copperline Fintech,Private Markets,vendor_spend,investor,needs public corroboration,5,8,63.0,74,104.1,ready for profile enrichment
+SIG0215,FEED010,Private Capital Survey Benchmarks,Nimbus Agents,Semiconductors,executive_move,advisory,validated,6,8,59.0,87,104.0,map to controlled taxonomy
+SIG0269,FEED012,Data Center Capacity Tracker,FoundryStack,Private Markets,product_launch,enterprise,needs reporter review,7,8,82.0,82,104.0,ready for profile enrichment
+SIG0284,FEED012,Data Center Capacity Tracker,Kite Commerce,Cybersecurity,vendor_spend,enterprise,validated,7,8,82.0,96,104.0,hold for editorial context
+SIG0063,FEED003,Executive Move Watchlist,BrightLayer AI,Cloud Platforms,executive_move,consulting,needs public corroboration,5,8,73.0,76,103.9,map to controlled taxonomy
+SIG0149,FEED007,Semiconductor Supply Chain Profiles,Tandem BioAI,Semiconductors,funding_event,advisory,needs public corroboration,5,8,83.0,78,103.7,hold for editorial context
+SIG0162,FEED007,Semiconductor Supply Chain Profiles,Helio Semis,Enterprise AI,partnership,advisory,needs public corroboration,8,8,74.0,88,103.7,ready for profile enrichment
+SIG0276,FEED012,Data Center Capacity Tracker,Atlas Vector,Cloud Platforms,partnership,enterprise,needs reporter review,7,8,70.0,79,103.6,candidate for recurring feed
+SIG0032,FEED002,AI Infrastructure Deal Timeline,Atlas Vector,Cloud Platforms,capacity_expansion,investor,validated,7,8,84.0,96,103.5,needs second source
+SIG0083,FEED004,Private Market Funding Tracker,Orchid Systems,AI Infrastructure,vendor_spend,investor,validated,6,8,72.0,89,103.2,needs second source
+SIG0022,FEED001,Enterprise AI Company Profiles,Atlas Vector,Cloud Platforms,capacity_expansion,corp dev,needs reporter review,6,8,68.0,74,103.0,candidate for recurring feed
+SIG0232,FEED010,Private Capital Survey Benchmarks,TerraModel,Cybersecurity,vendor_spend,advisory,needs public corroboration,7,8,88.0,86,102.6,candidate for recurring feed
+SIG0238,FEED010,Private Capital Survey Benchmarks,CreatorGrid,Dealmaking,capacity_expansion,advisory,validated,7,8,70.0,92,102.6,candidate for recurring feed
+SIG0127,FEED006,Cybersecurity Buyer Intent Feed,LumenPay,Semiconductors,valuation_marker,enterprise,validated,5,8,84.0,87,102.5,ready for profile enrichment
+SIG0290,FEED012,Data Center Capacity Tracker,Fathom Legal AI,Dealmaking,vendor_spend,enterprise,needs public corroboration,5,8,84.0,77,102.5,candidate for recurring feed
+SIG0257,FEED011,M&A Advisory Signal Feed,Forma Cyber,Cybersecurity,capacity_expansion,advisory,needs public corroboration,6,8,80.0,80,102.4,ready for profile enrichment
+SIG0019,FEED001,Enterprise AI Company Profiles,Prism Security,AI Infrastructure,product_launch,corp dev,validated,5,8,76.0,85,102.3,candidate for recurring feed
+SIG0061,FEED003,Executive Move Watchlist,Apex Data Centers,Private Markets,capacity_expansion,consulting,validated,5,8,90.0,88,102.2,hold for editorial context
+SIG0121,FEED006,Cybersecurity Buyer Intent Feed,Atlas Vector,Cloud Platforms,customer_adoption,enterprise,validated,7,8,72.0,92,102.2,candidate for recurring feed
+SIG0173,FEED008,Fintech Partnership Timeline,Kite Commerce,Cybersecurity,capacity_expansion,corp dev,conflict found,8,8,68.0,71,102.0,ready for profile enrichment
+SIG0186,FEED008,Fintech Partnership Timeline,Kite Commerce,Cybersecurity,valuation_marker,corp dev,validated,5,8,64.0,82,101.9,needs second source
+SIG0187,FEED008,Fintech Partnership Timeline,Stride Cloud,Cloud Platforms,capacity_expansion,corp dev,validated,6,8,61.0,85,101.6,ready for profile enrichment
+SIG0264,FEED011,M&A Advisory Signal Feed,Waypoint AI,Dealmaking,partnership,advisory,validated,5,8,79.0,85,101.6,ready for profile enrichment
+SIG0054,FEED003,Executive Move Watchlist,Fathom Legal AI,Dealmaking,vendor_spend,consulting,needs reporter review,8,8,98.0,87,101.4,map to controlled taxonomy
+SIG0231,FEED010,Private Capital Survey Benchmarks,Cobalt Ledger,AI Infrastructure,go_to_market_shift,advisory,needs public corroboration,8,8,80.0,87,101.4,hold for editorial context
+SIG0053,FEED003,Executive Move Watchlist,Mosaic Workflows,AI Infrastructure,go_to_market_shift,consulting,needs public corroboration,8,8,58.0,82,101.2,candidate for recurring feed
+SIG0072,FEED004,Private Market Funding Tracker,VectorBridge,Private Capital,valuation_marker,investor,needs public corroboration,5,8,72.0,73,101.2,ready for profile enrichment
+SIG0033,FEED002,AI Infrastructure Deal Timeline,Orchid Systems,AI Infrastructure,product_launch,investor,validated,6,8,63.0,85,101.1,ready for profile enrichment
+SIG0192,FEED009,Creator Economy Company Index,BrightLayer AI,Cloud Platforms,go_to_market_shift,investor,validated,7,8,86.0,94,101.1,needs second source
+SIG0247,FEED011,M&A Advisory Signal Feed,Beacon Infra,AI Infrastructure,market_sentiment,advisory,validated,5,8,96.0,88,100.9,candidate for recurring feed
+SIG0095,FEED005,Cloud Vendor Sentiment Benchmark,Tandem BioAI,Semiconductors,partnership,enterprise,validated,7,8,88.0,94,100.6,hold for editorial context
+SIG0201,FEED009,Creator Economy Company Index,Meridian Chips,Cybersecurity,market_sentiment,investor,validated,7,8,57.0,87,100.5,ready for profile enrichment
+SIG0044,FEED002,AI Infrastructure Deal Timeline,Nexus Cloud,Private Markets,capacity_expansion,investor,needs reporter review,6,8,98.0,78,100.4,candidate for recurring feed
+SIG0151,FEED007,Semiconductor Supply Chain Profiles,Tandem BioAI,Semiconductors,market_sentiment,advisory,conflict found,6,8,76.0,63,100.3,needs second source
+SIG0207,FEED009,Creator Economy Company Index,Meridian Chips,Cybersecurity,funding_event,investor,needs reporter review,5,8,72.0,68,100.2,map to controlled taxonomy
+SIG0164,FEED007,Semiconductor Supply Chain Profiles,Helio Semis,Enterprise AI,partnership,advisory,needs public corroboration,6,8,92.0,80,99.8,ready for profile enrichment
+SIG0071,FEED004,Private Market Funding Tracker,Orchid Systems,AI Infrastructure,partnership,investor,validated,6,8,97.0,91,99.7,hold for editorial context
+SIG0057,FEED003,Executive Move Watchlist,Cobalt Ledger,AI Infrastructure,executive_move,consulting,validated,6,8,80.0,87,99.4,map to controlled taxonomy
+SIG0211,FEED009,Creator Economy Company Index,Forma Cyber,Cybersecurity,product_launch,investor,validated,5,8,98.0,87,99.4,hold for editorial context
+SIG0292,FEED012,Data Center Capacity Tracker,Atlas Vector,Cloud Platforms,customer_adoption,enterprise,needs public corroboration,5,8,98.0,77,99.4,map to controlled taxonomy
+SIG0081,FEED004,Private Market Funding Tracker,Harbor Robotics,Private Capital,valuation_marker,investor,needs reporter review,6,8,94.0,76,99.3,candidate for recurring feed
+SIG0293,FEED012,Data Center Capacity Tracker,VaultSpan,Enterprise AI,go_to_market_shift,enterprise,needs public corroboration,6,8,85.0,78,99.3,candidate for recurring feed
+SIG0064,FEED003,Executive Move Watchlist,DriftWorks,Creator Economy,market_sentiment,consulting,validated,7,8,81.0,91,99.2,needs second source
+SIG0288,FEED012,Data Center Capacity Tracker,Stride Cloud,Cloud Platforms,capacity_expansion,enterprise,needs reporter review,8,8,86.0,82,99.1,map to controlled taxonomy
+SIG0280,FEED012,Data Center Capacity Tracker,Stride Cloud,Cloud Platforms,product_launch,enterprise,validated,7,8,68.0,88,99.0,hold for editorial context
+SIG0040,FEED002,AI Infrastructure Deal Timeline,SignalForge,AI Infrastructure,funding_event,investor,needs reporter review,8,8,64.0,77,98.9,needs second source
+SIG0219,FEED010,Private Capital Survey Benchmarks,Nimbus Agents,Semiconductors,market_sentiment,advisory,validated,7,8,73.0,89,98.9,candidate for recurring feed
+SIG0157,FEED007,Semiconductor Supply Chain Profiles,Copperline Fintech,Private Markets,go_to_market_shift,advisory,validated,6,8,83.0,87,98.7,hold for editorial context
+SIG0055,FEED003,Executive Move Watchlist,Mosaic Workflows,AI Infrastructure,valuation_marker,consulting,validated,7,8,98.0,94,98.4,ready for profile enrichment
+SIG0246,FEED011,M&A Advisory Signal Feed,Meridian Chips,Cybersecurity,funding_event,advisory,validated,7,8,89.0,92,98.4,hold for editorial context
+SIG0003,FEED001,Enterprise AI Company Profiles,VectorBridge,Private Capital,vendor_spend,corp dev,needs reporter review,6,8,90.0,74,98.2,candidate for recurring feed
+SIG0116,FEED005,Cloud Vendor Sentiment Benchmark,BrightLayer AI,Cloud Platforms,go_to_market_shift,enterprise,needs public corroboration,8,8,64.0,80,97.9,ready for profile enrichment
+SIG0093,FEED005,Cloud Vendor Sentiment Benchmark,BrightLayer AI,Cloud Platforms,valuation_marker,enterprise,needs reporter review,8,8,78.0,79,97.8,needs second source
+SIG0098,FEED005,Cloud Vendor Sentiment Benchmark,Nimbus Agents,Semiconductors,valuation_marker,enterprise,validated,8,8,92.0,96,97.8,hold for editorial context
+SIG0260,FEED011,M&A Advisory Signal Feed,Tandem BioAI,Semiconductors,valuation_marker,advisory,validated,7,8,78.0,89,97.8,hold for editorial context
+SIG0109,FEED005,Cloud Vendor Sentiment Benchmark,Vellum Apps,Semiconductors,capacity_expansion,enterprise,needs public corroboration,7,8,79.0,79,97.6,candidate for recurring feed
+SIG0143,FEED007,Semiconductor Supply Chain Profiles,Stride Cloud,Cloud Platforms,market_sentiment,advisory,validated,7,8,79.0,89,97.6,ready for profile enrichment
+SIG0106,FEED005,Cloud Vendor Sentiment Benchmark,VectorBridge,Private Capital,partnership,enterprise,validated,6,8,98.0,89,97.4,needs second source
+SIG0110,FEED005,Cloud Vendor Sentiment Benchmark,VectorBridge,Private Capital,funding_event,enterprise,conflict found,7,8,64.0,61,96.9,candidate for recurring feed
+SIG0177,FEED008,Fintech Partnership Timeline,Stride Cloud,Cloud Platforms,vendor_spend,corp dev,conflict found,6,8,78.0,60,96.8,ready for profile enrichment
+SIG0002,FEED001,Enterprise AI Company Profiles,CircuitLake,Enterprise AI,customer_adoption,corp dev,needs public corroboration,6,8,79.0,74,96.6,map to controlled taxonomy
+SIG0105,FEED005,Cloud Vendor Sentiment Benchmark,VectorBridge,Private Capital,funding_event,enterprise,validated,5,8,79.0,80,96.6,candidate for recurring feed
+SIG0262,FEED011,M&A Advisory Signal Feed,ScaleMint,Fintech,valuation_marker,advisory,needs public corroboration,8,8,94.0,85,96.3,ready for profile enrichment
+SIG0037,FEED002,AI Infrastructure Deal Timeline,CreatorGrid,Dealmaking,capacity_expansion,investor,validated,8,8,63.0,88,96.1,needs second source
+SIG0112,FEED005,Cloud Vendor Sentiment Benchmark,CircuitLake,Enterprise AI,executive_move,enterprise,validated,7,8,73.0,86,95.9,candidate for recurring feed
+SIG0097,FEED005,Cloud Vendor Sentiment Benchmark,Tandem BioAI,Semiconductors,capacity_expansion,enterprise,validated,7,8,79.0,87,95.6,map to controlled taxonomy
+SIG0237,FEED010,Private Capital Survey Benchmarks,TerraModel,Cybersecurity,customer_adoption,advisory,needs public corroboration,5,8,79.0,69,95.6,needs second source
+SIG0266,FEED011,M&A Advisory Signal Feed,ScaleMint,Fintech,vendor_spend,advisory,conflict found,5,8,63.0,51,95.1,candidate for recurring feed
+SIG0052,FEED003,Executive Move Watchlist,Nimbus Agents,Semiconductors,customer_adoption,consulting,conflict found,5,8,82.0,55,95.0,map to controlled taxonomy
+SIG0047,FEED003,Executive Move Watchlist,Nexus Cloud,Private Markets,vendor_spend,consulting,needs public corroboration,6,8,47.0,65,94.7,needs second source
+SIG0115,FEED005,Cloud Vendor Sentiment Benchmark,SageCompute,Private Markets,partnership,enterprise,validated,6,8,83.0,83,94.7,map to controlled taxonomy
+SIG0185,FEED008,Fintech Partnership Timeline,CreatorGrid,Dealmaking,market_sentiment,corp dev,validated,6,8,88.0,84,94.6,map to controlled taxonomy
+SIG0153,FEED007,Semiconductor Supply Chain Profiles,ArcLight Data,Private Markets,go_to_market_shift,advisory,validated,8,8,86.0,91,94.1,candidate for recurring feed
+SIG0094,FEED005,Cloud Vendor Sentiment Benchmark,Vellum Apps,Semiconductors,customer_adoption,enterprise,conflict found,8,8,84.0,66,93.5,ready for profile enrichment
+SIG0132,FEED006,Cybersecurity Buyer Intent Feed,CircuitLake,Enterprise AI,funding_event,enterprise,needs reporter review,5,8,93.0,66,93.5,hold for editorial context
+SIG0087,FEED004,Private Market Funding Tracker,Nexus Cloud,Private Markets,capacity_expansion,investor,validated,6,8,80.0,81,93.4,ready for profile enrichment
+SIG0085,FEED004,Private Market Funding Tracker,Orchid Systems,AI Infrastructure,partnership,investor,conflict found,8,8,86.0,66,93.1,ready for profile enrichment
+SIG0082,FEED004,Private Market Funding Tracker,Harbor Robotics,Private Capital,capacity_expansion,investor,validated,8,8,75.0,87,92.5,candidate for recurring feed
+SIG0223,FEED010,Private Capital Survey Benchmarks,Cobalt Ledger,AI Infrastructure,market_sentiment,advisory,validated,6,8,76.0,79,92.3,hold for editorial context
+SIG0212,FEED009,Creator Economy Company Index,BrightLayer AI,Cloud Platforms,executive_move,investor,conflict found,7,8,69.0,57,91.8,needs second source
+SIG0010,FEED001,Enterprise AI Company Profiles,PacketFoundry,Cloud Platforms,go_to_market_shift,corp dev,validated,6,8,62.0,75,91.4,candidate for recurring feed
+SIG0197,FEED009,Creator Economy Company Index,Meridian Chips,Cybersecurity,market_sentiment,investor,validated,8,8,98.0,91,91.4,candidate for recurring feed
+SIG0050,FEED003,Executive Move Watchlist,TerraModel,Cybersecurity,capacity_expansion,consulting,conflict found,6,8,76.0,54,91.3,hold for editorial context
+SIG0277,FEED012,Data Center Capacity Tracker,LumenPay,Semiconductors,vendor_spend,enterprise,needs public corroboration,5,8,72.0,63,91.2,hold for editorial context
+SIG0114,FEED005,Cloud Vendor Sentiment Benchmark,Tandem BioAI,Semiconductors,valuation_marker,enterprise,validated,8,8,63.0,83,91.1,ready for profile enrichment
+SIG0214,FEED010,Private Capital Survey Benchmarks,LumenPay,Semiconductors,go_to_market_shift,advisory,needs reporter review,8,8,86.0,74,91.1,candidate for recurring feed
+SIG0117,FEED006,Cybersecurity Buyer Intent Feed,Mosaic Workflows,AI Infrastructure,executive_move,enterprise,needs public corroboration,6,8,83.0,69,90.7,candidate for recurring feed
+SIG0184,FEED008,Fintech Partnership Timeline,Apex Data Centers,Private Markets,executive_move,corp dev,needs reporter review,7,8,56.0,63,90.7,hold for editorial context
+SIG0155,FEED007,Semiconductor Supply Chain Profiles,VaultSpan,Enterprise AI,partnership,advisory,conflict found,7,8,88.0,60,90.6,candidate for recurring feed
+SIG0070,FEED004,Private Market Funding Tracker,Nexus Cloud,Private Markets,go_to_market_shift,investor,needs reporter review,5,8,62.0,56,90.4,candidate for recurring feed
+SIG0239,FEED010,Private Capital Survey Benchmarks,Meridian Chips,Cybersecurity,market_sentiment,advisory,needs public corroboration,5,8,63.0,60,90.1,candidate for recurring feed
+SIG0086,FEED004,Private Market Funding Tracker,Orchid Systems,AI Infrastructure,partnership,investor,validated,5,8,88.0,75,89.6,needs second source
+SIG0119,FEED006,Cybersecurity Buyer Intent Feed,Copperline Fintech,Private Markets,market_sentiment,enterprise,validated,5,8,70.0,71,89.6,map to controlled taxonomy
+SIG0253,FEED011,M&A Advisory Signal Feed,ScaleMint,Fintech,partnership,advisory,needs reporter review,8,8,88.0,73,89.6,ready for profile enrichment
+SIG0045,FEED002,AI Infrastructure Deal Timeline,Orchid Systems,AI Infrastructure,partnership,investor,needs reporter review,8,8,53.0,65,89.3,needs second source
+SIG0146,FEED007,Semiconductor Supply Chain Profiles,Atlas Vector,Cloud Platforms,product_launch,advisory,needs public corroboration,8,8,67.0,72,89.3,candidate for recurring feed
+SIG0220,FEED010,Private Capital Survey Benchmarks,Stride Cloud,Cloud Platforms,go_to_market_shift,advisory,validated,6,8,76.0,76,89.3,ready for profile enrichment
+SIG0006,FEED001,Enterprise AI Company Profiles,Prism Security,AI Infrastructure,go_to_market_shift,corp dev,needs reporter review,6,8,88.0,64,88.6,ready for profile enrichment
+SIG0224,FEED010,Private Capital Survey Benchmarks,Stride Cloud,Cloud Platforms,vendor_spend,advisory,needs public corroboration,5,8,62.0,58,88.4,candidate for recurring feed
+SIG0092,FEED004,Private Market Funding Tracker,Orchid Systems,AI Infrastructure,funding_event,investor,needs public corroboration,8,8,90.0,76,88.2,needs second source
+SIG0221,FEED010,Private Capital Survey Benchmarks,CreatorGrid,Dealmaking,funding_event,advisory,needs public corroboration,7,8,77.0,69,88.1,needs second source
+SIG0122,FEED006,Cybersecurity Buyer Intent Feed,CircuitLake,Enterprise AI,executive_move,enterprise,validated,7,8,96.0,83,87.9,needs second source
+SIG0170,FEED008,Fintech Partnership Timeline,Helio Semis,Enterprise AI,vendor_spend,corp dev,needs public corroboration,7,8,73.0,68,87.9,hold for editorial context
+SIG0216,FEED010,Private Capital Survey Benchmarks,DriftWorks,Creator Economy,market_sentiment,advisory,needs reporter review,5,8,92.0,60,87.8,map to controlled taxonomy
+SIG0041,FEED002,AI Infrastructure Deal Timeline,FoundryStack,Private Markets,vendor_spend,investor,validated,6,8,65.0,72,87.7,ready for profile enrichment
+SIG0142,FEED006,Cybersecurity Buyer Intent Feed,Pioneer GPU,Private Capital,vendor_spend,enterprise,needs public corroboration,5,8,75.0,60,87.5,hold for editorial context
+SIG0144,FEED007,Semiconductor Supply Chain Profiles,FoundryStack,Private Markets,market_sentiment,advisory,conflict found,5,8,98.0,51,87.4,needs second source
+SIG0171,FEED008,Fintech Partnership Timeline,Stride Cloud,Cloud Platforms,product_launch,corp dev,needs reporter review,6,8,98.0,65,87.4,needs second source
+SIG0270,FEED012,Data Center Capacity Tracker,SageCompute,Private Markets,valuation_marker,enterprise,validated,8,8,98.0,87,87.4,needs second source
+SIG0217,FEED010,Private Capital Survey Benchmarks,Meridian Chips,Cybersecurity,market_sentiment,advisory,needs reporter review,5,8,77.0,56,87.1,hold for editorial context
+SIG0233,FEED010,Private Capital Survey Benchmarks,CreatorGrid,Dealmaking,customer_adoption,advisory,needs reporter review,7,8,95.0,68,87.1,map to controlled taxonomy
+SIG0005,FEED001,Enterprise AI Company Profiles,Waypoint AI,Dealmaking,valuation_marker,corp dev,needs reporter review,7,8,82.0,65,87.0,needs second source
+SIG0058,FEED003,Executive Move Watchlist,Vellum Apps,Semiconductors,product_launch,consulting,needs reporter review,7,8,69.0,62,86.8,ready for profile enrichment
+SIG0289,FEED012,Data Center Capacity Tracker,VaultSpan,Enterprise AI,go_to_market_shift,enterprise,needs public corroboration,5,8,78.0,60,86.8,map to controlled taxonomy
+SIG0096,FEED005,Cloud Vendor Sentiment Benchmark,BrightLayer AI,Cloud Platforms,partnership,enterprise,needs reporter review,6,8,70.0,58,86.6,ready for profile enrichment
+SIG0073,FEED004,Private Market Funding Tracker,Copperline Fintech,Private Markets,vendor_spend,investor,needs public corroboration,7,8,93.0,71,86.5,needs second source
+SIG0124,FEED006,Cybersecurity Buyer Intent Feed,LumenPay,Semiconductors,go_to_market_shift,enterprise,needs public corroboration,6,8,84.0,65,86.5,hold for editorial context
+SIG0254,FEED011,M&A Advisory Signal Feed,Beacon Infra,AI Infrastructure,valuation_marker,advisory,validated,7,8,58.0,73,86.2,ready for profile enrichment
+SIG0137,FEED006,Cybersecurity Buyer Intent Feed,SignalForge,AI Infrastructure,valuation_marker,enterprise,validated,6,8,63.0,70,86.1,needs second source
+SIG0042,FEED002,AI Infrastructure Deal Timeline,SignalForge,AI Infrastructure,vendor_spend,investor,needs public corroboration,6,8,78.0,63,85.8,hold for editorial context
+SIG0039,FEED002,AI Infrastructure Deal Timeline,Nexus Cloud,Private Markets,partnership,investor,needs public corroboration,7,8,84.0,68,85.5,hold for editorial context
+SIG0226,FEED010,Private Capital Survey Benchmarks,DriftWorks,Creator Economy,executive_move,advisory,validated,8,8,76.0,80,85.3,map to controlled taxonomy
+SIG0049,FEED003,Executive Move Watchlist,Nexus Cloud,Private Markets,capacity_expansion,consulting,validated,5,8,73.0,67,84.9,hold for editorial context
+SIG0120,FEED006,Cybersecurity Buyer Intent Feed,Mosaic Workflows,AI Infrastructure,vendor_spend,enterprise,validated,5,8,69.0,66,84.8,candidate for recurring feed
+SIG0261,FEED011,M&A Advisory Signal Feed,Beacon Infra,AI Infrastructure,product_launch,advisory,validated,6,8,83.0,73,84.7,needs second source
+SIG0208,FEED009,Creator Economy Company Index,Mosaic Workflows,AI Infrastructure,market_sentiment,investor,needs reporter review,7,8,52.0,56,84.6,needs second source
+SIG0159,FEED007,Semiconductor Supply Chain Profiles,ArcLight Data,Private Markets,product_launch,advisory,needs public corroboration,7,8,66.0,63,84.5,candidate for recurring feed
+SIG0004,FEED001,Enterprise AI Company Profiles,ArcLight Data,Private Markets,vendor_spend,corp dev,validated,7,8,98.0,80,84.4,map to controlled taxonomy
+SIG0202,FEED009,Creator Economy Company Index,PacketFoundry,Cloud Platforms,capacity_expansion,investor,validated,5,8,81.0,68,84.2,hold for editorial context
+SIG0060,FEED003,Executive Move Watchlist,Pioneer GPU,Private Capital,product_launch,consulting,validated,5,8,77.0,67,84.1,hold for editorial context
+SIG0234,FEED010,Private Capital Survey Benchmarks,Meridian Chips,Cybersecurity,funding_event,advisory,validated,6,8,77.0,71,84.1,needs second source
+SIG0139,FEED006,Cybersecurity Buyer Intent Feed,Prism Security,AI Infrastructure,product_launch,enterprise,validated,8,8,68.0,77,84.0,map to controlled taxonomy
+SIG0154,FEED007,Semiconductor Supply Chain Profiles,Cobalt Ledger,AI Infrastructure,go_to_market_shift,advisory,validated,7,8,82.0,76,84.0,candidate for recurring feed
+SIG0020,FEED001,Enterprise AI Company Profiles,Northstar Compute,Private Markets,partnership,corp dev,validated,8,8,69.0,77,83.8,candidate for recurring feed
+SIG0250,FEED011,M&A Advisory Signal Feed,FoundryStack,Private Markets,capacity_expansion,advisory,validated,5,8,75.0,66,83.5,candidate for recurring feed
+SIG0028,FEED002,AI Infrastructure Deal Timeline,SignalForge,AI Infrastructure,go_to_market_shift,investor,needs public corroboration,6,8,80.0,61,83.4,map to controlled taxonomy
+SIG0225,FEED010,Private Capital Survey Benchmarks,TerraModel,Cybersecurity,customer_adoption,advisory,validated,5,8,80.0,67,83.4,ready for profile enrichment
+SIG0013,FEED001,Enterprise AI Company Profiles,Prism Security,AI Infrastructure,product_launch,corp dev,needs public corroboration,6,8,86.0,62,83.1,map to controlled taxonomy
+SIG0181,FEED008,Fintech Partnership Timeline,FoundryStack,Private Markets,market_sentiment,corp dev,validated,6,8,77.0,70,83.1,map to controlled taxonomy
+SIG0265,FEED011,M&A Advisory Signal Feed,PacketFoundry,Cloud Platforms,funding_event,advisory,needs public corroboration,7,8,91.0,67,83.0,candidate for recurring feed
+SIG0108,FEED005,Cloud Vendor Sentiment Benchmark,Nimbus Agents,Semiconductors,customer_adoption,enterprise,validated,8,8,64.0,75,82.9,needs second source
+SIG0275,FEED012,Data Center Capacity Tracker,Atlas Vector,Cloud Platforms,product_launch,enterprise,validated,8,8,65.0,75,82.7,map to controlled taxonomy
+SIG0059,FEED003,Executive Move Watchlist,DriftWorks,Creator Economy,product_launch,consulting,needs reporter review,5,8,93.0,55,82.5,map to controlled taxonomy
+SIG0140,FEED006,Cybersecurity Buyer Intent Feed,Mosaic Workflows,AI Infrastructure,product_launch,enterprise,validated,7,8,59.0,69,82.0,ready for profile enrichment
+SIG0190,FEED009,Creator Economy Company Index,Meridian Chips,Cybersecurity,executive_move,investor,validated,6,8,73.0,68,81.9,hold for editorial context
+SIG0030,FEED002,AI Infrastructure Deal Timeline,DriftWorks,Creator Economy,customer_adoption,investor,needs public corroboration,5,8,62.0,51,81.4,needs second source
+SIG0133,FEED006,Cybersecurity Buyer Intent Feed,Fathom Legal AI,Dealmaking,customer_adoption,enterprise,needs public corroboration,7,8,72.0,61,81.2,ready for profile enrichment
+SIG0249,FEED011,M&A Advisory Signal Feed,Helio Semis,Enterprise AI,vendor_spend,advisory,needs public corroboration,7,8,81.0,63,81.2,map to controlled taxonomy
+SIG0113,FEED005,Cloud Vendor Sentiment Benchmark,BrightLayer AI,Cloud Platforms,market_sentiment,enterprise,needs public corroboration,5,8,86.0,56,81.1,hold for editorial context
+SIG0196,FEED009,Creator Economy Company Index,CreatorGrid,Dealmaking,executive_move,investor,needs reporter review,5,8,86.0,52,81.1,map to controlled taxonomy
+SIG0111,FEED005,Cloud Vendor Sentiment Benchmark,BrightLayer AI,Cloud Platforms,market_sentiment,enterprise,validated,7,8,55.0,67,80.9,candidate for recurring feed
+SIG0029,FEED002,AI Infrastructure Deal Timeline,CreatorGrid,Dealmaking,capacity_expansion,investor,needs reporter review,8,8,79.0,62,80.6,hold for editorial context
+SIG0136,FEED006,Cybersecurity Buyer Intent Feed,LumenPay,Semiconductors,valuation_marker,enterprise,needs reporter review,6,8,67.0,51,80.3,hold for editorial context
+SIG0150,FEED007,Semiconductor Supply Chain Profiles,Stride Cloud,Cloud Platforms,funding_event,advisory,needs public corroboration,8,8,90.0,68,80.2,candidate for recurring feed
+SIG0230,FEED010,Private Capital Survey Benchmarks,DriftWorks,Creator Economy,market_sentiment,advisory,validated,7,8,76.0,70,79.3,needs second source
+SIG0126,FEED006,Cybersecurity Buyer Intent Feed,Copperline Fintech,Private Markets,go_to_market_shift,enterprise,needs public corroboration,6,8,73.0,55,78.9,hold for editorial context
+SIG0134,FEED006,Cybersecurity Buyer Intent Feed,SignalForge,AI Infrastructure,customer_adoption,enterprise,needs reporter review,6,8,84.0,53,78.5,hold for editorial context
+SIG0131,FEED006,Cybersecurity Buyer Intent Feed,Harbor Robotics,Private Capital,executive_move,enterprise,needs reporter review,7,8,98.0,60,78.4,candidate for recurring feed
+SIG0236,FEED010,Private Capital Survey Benchmarks,CreatorGrid,Dealmaking,vendor_spend,advisory,needs public corroboration,6,8,89.0,58,78.4,map to controlled taxonomy
+SIG0152,FEED007,Semiconductor Supply Chain Profiles,Copperline Fintech,Private Markets,market_sentiment,advisory,needs public corroboration,6,8,63.0,52,78.1,needs second source
+SIG0169,FEED008,Fintech Partnership Timeline,Helio Semis,Enterprise AI,funding_event,corp dev,validated,6,8,73.0,64,77.9,hold for editorial context
+SIG0204,FEED009,Creator Economy Company Index,SignalForge,AI Infrastructure,go_to_market_shift,investor,validated,7,8,88.0,71,77.6,hold for editorial context
+SIG0025,FEED001,Enterprise AI Company Profiles,DriftWorks,Creator Economy,market_sentiment,corp dev,validated,7,8,89.0,71,77.4,needs second source
+SIG0263,FEED011,M&A Advisory Signal Feed,Forma Cyber,Cybersecurity,product_launch,advisory,needs public corroboration,7,8,85.0,60,77.3,map to controlled taxonomy
+SIG0241,FEED010,Private Capital Survey Benchmarks,CircuitLake,Enterprise AI,funding_event,advisory,needs public corroboration,7,8,81.0,59,77.2,needs second source
+SIG0268,FEED011,M&A Advisory Signal Feed,Tandem BioAI,Semiconductors,funding_event,advisory,needs reporter review,8,8,63.0,55,77.1,hold for editorial context
+SIG0008,FEED001,Enterprise AI Company Profiles,VectorBridge,Private Capital,partnership,corp dev,needs public corroboration,6,8,68.0,52,77.0,needs second source
+SIG0175,FEED008,Fintech Partnership Timeline,Kite Commerce,Cybersecurity,valuation_marker,corp dev,validated,7,8,84.0,69,76.5,hold for editorial context
+SIG0129,FEED006,Cybersecurity Buyer Intent Feed,Beacon Infra,AI Infrastructure,funding_event,enterprise,conflict found,8,8,98.0,52,76.4,map to controlled taxonomy
+SIG0198,FEED009,Creator Economy Company Index,Harbor Robotics,Private Capital,vendor_spend,investor,validated,6,8,98.0,68,76.4,map to controlled taxonomy
+SIG0242,FEED010,Private Capital Survey Benchmarks,CircuitLake,Enterprise AI,executive_move,advisory,needs public corroboration,8,8,64.0,58,75.9,candidate for recurring feed
+SIG0141,FEED006,Cybersecurity Buyer Intent Feed,Harbor Robotics,Private Capital,customer_adoption,enterprise,validated,7,8,93.0,70,75.5,candidate for recurring feed
+SIG0147,FEED007,Semiconductor Supply Chain Profiles,ArcLight Data,Private Markets,product_launch,advisory,needs public corroboration,7,8,62.0,53,75.4,candidate for recurring feed
+SIG0274,FEED012,Data Center Capacity Tracker,PacketFoundry,Cloud Platforms,capacity_expansion,enterprise,validated,7,8,80.0,67,75.4,hold for editorial context
+SIG0014,FEED001,Enterprise AI Company Profiles,BrightLayer AI,Cloud Platforms,market_sentiment,corp dev,needs reporter review,8,8,60.0,52,74.8,map to controlled taxonomy
+SIG0038,FEED002,AI Infrastructure Deal Timeline,Prism Security,AI Infrastructure,partnership,investor,validated,6,8,56.0,57,74.7,needs second source
+SIG0228,FEED010,Private Capital Survey Benchmarks,Stride Cloud,Cloud Platforms,customer_adoption,advisory,validated,6,8,74.0,61,74.7,map to controlled taxonomy
+SIG0078,FEED004,Private Market Funding Tracker,BrightLayer AI,Cloud Platforms,capacity_expansion,investor,validated,7,8,70.0,64,74.6,map to controlled taxonomy
+SIG0283,FEED012,Data Center Capacity Tracker,Nexus Cloud,Private Markets,market_sentiment,enterprise,validated,7,8,89.0,68,74.4,ready for profile enrichment
+SIG0125,FEED006,Cybersecurity Buyer Intent Feed,Fathom Legal AI,Dealmaking,go_to_market_shift,enterprise,needs public corroboration,6,8,77.0,51,74.1,map to controlled taxonomy
+SIG0067,FEED003,Executive Move Watchlist,DriftWorks,Creator Economy,market_sentiment,consulting,validated,5,8,73.0,56,73.9,map to controlled taxonomy
+SIG0240,FEED010,Private Capital Survey Benchmarks,CircuitLake,Enterprise AI,market_sentiment,advisory,validated,7,8,70.0,63,73.6,map to controlled taxonomy
+SIG0180,FEED008,Fintech Partnership Timeline,CreatorGrid,Dealmaking,product_launch,corp dev,needs public corroboration,8,8,81.0,59,73.2,map to controlled taxonomy
+SIG0210,FEED009,Creator Economy Company Index,PacketFoundry,Cloud Platforms,vendor_spend,investor,needs public corroboration,8,8,83.0,59,72.7,map to controlled taxonomy
+SIG0009,FEED001,Enterprise AI Company Profiles,Waypoint AI,Dealmaking,partnership,corp dev,validated,8,8,89.0,70,72.4,hold for editorial context
+SIG0285,FEED012,Data Center Capacity Tracker,Beacon Infra,AI Infrastructure,market_sentiment,enterprise,needs public corroboration,7,8,71.0,52,72.4,candidate for recurring feed
+SIG0183,FEED008,Fintech Partnership Timeline,Helio Semis,Enterprise AI,executive_move,corp dev,validated,6,8,69.0,57,71.8,needs second source
+SIG0091,FEED004,Private Market Funding Tracker,Nexus Cloud,Private Markets,executive_move,investor,needs public corroboration,7,8,79.0,53,71.6,hold for editorial context
+SIG0256,FEED011,M&A Advisory Signal Feed,FoundryStack,Private Markets,executive_move,advisory,validated,7,8,79.0,63,71.6,ready for profile enrichment
+SIG0100,FEED005,Cloud Vendor Sentiment Benchmark,Tandem BioAI,Semiconductors,valuation_marker,enterprise,validated,5,8,75.0,54,71.5,map to controlled taxonomy
+SIG0287,FEED012,Data Center Capacity Tracker,Nexus Cloud,Private Markets,partnership,enterprise,validated,6,8,93.0,62,71.5,map to controlled taxonomy
+SIG0107,FEED005,Cloud Vendor Sentiment Benchmark,Tandem BioAI,Semiconductors,executive_move,enterprise,validated,8,8,79.0,66,70.6,map to controlled taxonomy
+SIG0080,FEED004,Private Market Funding Tracker,Stride Cloud,Cloud Platforms,capacity_expansion,investor,validated,6,8,98.0,62,70.4,needs second source
+SIG0043,FEED002,AI Infrastructure Deal Timeline,SageCompute,Private Markets,capacity_expansion,investor,validated,6,8,82.0,58,70.0,hold for editorial context
+SIG0172,FEED008,Fintech Partnership Timeline,LumenPay,Semiconductors,market_sentiment,corp dev,validated,7,8,73.0,60,69.9,ready for profile enrichment
+SIG0016,FEED001,Enterprise AI Company Profiles,VectorBridge,Private Capital,product_launch,corp dev,needs public corroboration,8,8,82.0,55,69.0,hold for editorial context
+SIG0191,FEED009,Creator Economy Company Index,SignalForge,AI Infrastructure,customer_adoption,investor,validated,7,8,88.0,62,68.6,candidate for recurring feed
+SIG0195,FEED009,Creator Economy Company Index,Forma Cyber,Cybersecurity,partnership,investor,validated,8,8,97.0,67,67.7,hold for editorial context
+SIG0213,FEED010,Private Capital Survey Benchmarks,Meridian Chips,Cybersecurity,valuation_marker,advisory,needs public corroboration,7,8,97.0,53,67.7,map to controlled taxonomy
+SIG0148,FEED007,Semiconductor Supply Chain Profiles,Atlas Vector,Cloud Platforms,capacity_expansion,advisory,validated,7,8,63.0,55,67.1,ready for profile enrichment
+SIG0179,FEED008,Fintech Partnership Timeline,LumenPay,Semiconductors,go_to_market_shift,corp dev,validated,6,8,83.0,55,66.7,candidate for recurring feed
+SIG0001,FEED001,Enterprise AI Company Profiles,DriftWorks,Creator Economy,customer_adoption,corp dev,validated,7,8,75.0,57,66.5,ready for profile enrichment
+SIG0188,FEED008,Fintech Partnership Timeline,CreatorGrid,Dealmaking,market_sentiment,corp dev,validated,5,8,93.0,53,66.5,hold for editorial context
+SIG0088,FEED004,Private Market Funding Tracker,VectorBridge,Private Capital,executive_move,investor,validated,8,8,72.0,60,66.2,map to controlled taxonomy
+SIG0165,FEED008,Fintech Partnership Timeline,FoundryStack,Private Markets,customer_adoption,corp dev,validated,7,8,58.0,53,66.2,map to controlled taxonomy
+SIG0279,FEED012,Data Center Capacity Tracker,PacketFoundry,Cloud Platforms,valuation_marker,enterprise,validated,7,8,60.0,53,65.8,candidate for recurring feed
+SIG0168,FEED008,Fintech Partnership Timeline,Orchid Systems,AI Infrastructure,executive_move,corp dev,validated,8,8,75.0,60,65.5,map to controlled taxonomy
+SIG0193,FEED009,Creator Economy Company Index,BrightLayer AI,Cloud Platforms,vendor_spend,investor,validated,7,8,70.0,54,64.6,ready for profile enrichment
+SIG0206,FEED009,Creator Economy Company Index,PacketFoundry,Cloud Platforms,funding_event,investor,needs public corroboration,8,8,75.0,49,64.5,map to controlled taxonomy
+SIG0056,FEED003,Executive Move Watchlist,Nimbus Agents,Semiconductors,executive_move,consulting,validated,8,8,71.0,58,64.4,hold for editorial context
+SIG0252,FEED011,M&A Advisory Signal Feed,PacketFoundry,Cloud Platforms,valuation_marker,advisory,validated,7,8,80.0,56,64.4,candidate for recurring feed
+SIG0245,FEED011,M&A Advisory Signal Feed,Helio Semis,Enterprise AI,capacity_expansion,advisory,validated,6,8,83.0,52,63.7,candidate for recurring feed
+SIG0027,FEED001,Enterprise AI Company Profiles,PacketFoundry,Cloud Platforms,executive_move,corp dev,validated,8,8,79.0,59,63.6,candidate for recurring feed
+SIG0035,FEED002,AI Infrastructure Deal Timeline,DriftWorks,Creator Economy,partnership,investor,validated,8,8,64.0,53,60.9,ready for profile enrichment
+SIG0218,FEED010,Private Capital Survey Benchmarks,Cobalt Ledger,AI Infrastructure,executive_move,advisory,needs public corroboration,8,8,98.0,48,58.4,map to controlled taxonomy
+SIG0031,FEED002,AI Infrastructure Deal Timeline,SageCompute,Private Markets,capacity_expansion,investor,validated,8,8,82.0,51,55.0,candidate for recurring feed
